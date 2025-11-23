@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+myenv/
+venv/
+.env
+.env.*
+
+# Data & Artifacts (ignore everything in data except docs)
+ragthrones/data/**
+!ragthrones/data/*.md
+
+# Explicitly ignore heavy artifacts
+ragthrones/data/artifacts/
+ragthrones/data/embeddings/
+ragthrones/data/models/
+ragthrones/data/vectorstores/
+
+# FAISS / embedding files
+*.faiss
+*.index
+*.npy
+*.npz
+*.pt
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# logs
+logs/
+*.log
+
+# System files
+.DS_Store

@@ -32,6 +32,7 @@ from ragthrones.agents.emotion_agent import emotion_agent
 from ragthrones.agents.basic_rag_agent import basic_rag_agent  # kept for flexibility
 from ragthrones.agents.reranker_agent import get_reranker
 from ragthrones.agents.alternate_ending_agent import alternate_ending_agent
+from ragthrones.agents.nss_agent import scoring_agent
 
 # --- Shared helpers / prompts / retrieval ---
 from ragthrones.shared.helpers import node_reranker, node_synthesizer
@@ -60,6 +61,9 @@ class AgentState:
     causal: Dict[str, Any] = field(default_factory=dict)
     emotion: Dict[str, Any] = field(default_factory=dict)
     narrative: Dict[str, Any] = field(default_factory=dict)
+
+    # Narrative scoring system (NSS) output
+    nss_score: Optional[Dict[str, Any]] = None  # <-- NEW
 
     # Logs (all agents write here)
     logs: Dict[str, Any] = field(default_factory=dict)
@@ -363,10 +367,6 @@ def narrative_flow(state: AgentState) -> AgentState:
         state.reranked if state.reranked is not None else state.retrieved,
     )
 
-    state = node_synthesizer(state, answer_prompt_template=ANSWERER_PROMPT)
-    # Typo fix: ANSWERER_PROMPT -> ANSWER_PROMPT
-    # Corrected below:
-
     # Correct synthesize call
     state = node_synthesizer(state, answer_prompt_template=ANSWER_PROMPT)
 
@@ -449,6 +449,9 @@ def alternate_ending_flow(state: AgentState) -> AgentState:
 
     return state
 
+def nss_flow(state: AgentState) -> AgentState:
+    return scoring_agent(state)
+
 
 # ---------------------------------------------------------------
 #                    BUILD GRAPH
@@ -462,6 +465,8 @@ workflow.add_node("temporal_flow", temporal_flow)
 workflow.add_node("narrative_flow", narrative_flow)
 workflow.add_node("basic_rag_flow", basic_rag_flow)
 workflow.add_node("alternate_ending_flow", alternate_ending_flow)
+workflow.add_node("nss_scoring", scoring_agent)  # <-- NEW
+
 
 workflow.add_edge(START, "router")
 
@@ -477,11 +482,13 @@ workflow.add_conditional_edges(
     },
 )
 
-workflow.add_edge("factual_flow", END)
-workflow.add_edge("temporal_flow", END)
-workflow.add_edge("narrative_flow", END)
-workflow.add_edge("basic_rag_flow", END)
-workflow.add_edge("alternate_ending_flow", END)
+workflow.add_edge("factual_flow", "nss_scoring")
+workflow.add_edge("temporal_flow", "nss_scoring")
+workflow.add_edge("narrative_flow", "nss_scoring")
+workflow.add_edge("basic_rag_flow", "nss_scoring")
+workflow.add_edge("alternate_ending_flow", "nss_scoring")
+
+workflow.add_edge("nss_scoring", END) 
 
 app = workflow.compile()
 

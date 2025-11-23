@@ -15,7 +15,7 @@ import json
 import re
 from dataclasses import dataclass, field
 
-from ragthrones.llm.llm_client import llm_client, GEN_MODEL
+from ragthrones.llm.llm_client import get_llm_client, GEN_MODEL
 
 
 # ============================================================
@@ -68,22 +68,33 @@ def causal_agent(question: str, evidence_lines: list) -> CausalResult:
     Run causal extraction over the top reranked evidence.
     """
 
+    client = get_llm_client()
+
     payload = {
         "question": question,
         "evidence": evidence_lines
     }
 
-    # ------ LLM CALL ------
-    out = llm_client.chat.completions.create(
-        model=GEN_MODEL,
-        temperature=0.0,
-        messages=[
-            {"role": "system", "content": CAUSAL_PROMPT},
-            {"role": "user", "content": json.dumps(payload)}
-        ]
-    )
+    # ------ LLM CALL (correct OpenAI API format) ------
+    try:
+        response = client.chat.completions.create(
+            model=GEN_MODEL,
+            temperature=0.0,
+            messages=[
+                {"role": "system", "content": CAUSAL_PROMPT},
+                {"role": "user", "content": json.dumps(payload)}
+            ]
+        )
 
-    raw = out.choices[0].message.content.strip()
+        #raw = response.choices[0].message["content"].strip()
+        raw = response.choices[0].message.content.strip()
+
+    except Exception as e:
+        return CausalResult(
+            causes=[],
+            effects=[],
+            causal_links=[f"ERROR: {str(e)}"]
+        )
 
     # ------ Robust JSON Parsing ------
     try:
@@ -94,7 +105,6 @@ def causal_agent(question: str, evidence_lines: list) -> CausalResult:
         if match:
             data = json.loads(match.group(0))
         else:
-            # Hard fail – return empty structure with error
             return CausalResult(
                 causes=[],
                 effects=[],

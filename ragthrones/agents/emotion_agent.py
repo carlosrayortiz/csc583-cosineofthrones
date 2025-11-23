@@ -15,7 +15,7 @@ import json
 import re
 from dataclasses import dataclass, field
 
-from ragthrones.llm.llm_client import llm_client, GEN_MODEL
+from ragthrones.llm.llm_client import get_llm_client, GEN_MODEL
 
 
 # ============================================================
@@ -74,27 +74,39 @@ def emotion_agent(question: str, evidence_lines: list) -> EmotionResult:
     Run emotional/affect extraction over evidence.
     """
 
+    client = get_llm_client()
+
     payload = {
         "question": question,
         "evidence": evidence_lines
     }
 
-    # ---- Call LLM ----
-    out = llm_client.chat.completions.create(
-        model=GEN_MODEL,
-        temperature=0.0,
-        messages=[
-            {"role": "system", "content": EMOTION_PROMPT},
-            {"role": "user", "content": json.dumps(payload)}
-        ]
-    )
+    # ---- Call LLM (correct OpenAI API format) ----
+    try:
+        response = client.chat.completions.create(
+            model=GEN_MODEL,
+            temperature=0.0,
+            messages=[
+                {"role": "system", "content": EMOTION_PROMPT},
+                {"role": "user", "content": json.dumps(payload)}
+            ]
+        )
 
-    raw = out.choices[0].message.content.strip()
+        #raw = response.choices[0].message["content"].strip()
+        raw = response.choices[0].message.content.strip()
+
+    except Exception as e:
+        return EmotionResult(
+            character_entities=[f"ERROR: {str(e)}"],
+            emotional_state=[],
+            sentiment=""
+        )
 
     # ---- JSON parsing with fallback ----
     try:
         data = json.loads(raw)
     except Exception:
+        # Try to extract a JSON object embedded in text
         match = re.search(r"\{.*\}", raw, re.S)
         if match:
             data = json.loads(match.group(0))

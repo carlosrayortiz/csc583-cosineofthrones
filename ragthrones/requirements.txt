@@ -1,0 +1,25 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+
+# Vector search
+faiss-cpu
+
+# Sparse retrieval
+rank-bm25
+
+# Model API client (either OpenAI or Google)
+openai
+google-generativeai
+
+# UI (optional but included in your project)
+gradio
+
+# Utilities
+pyyaml
+tqdm
+
+# Evaluation (optional but useful later)
+bert-score
+rouge-score

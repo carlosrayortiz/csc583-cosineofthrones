@@ -3,7 +3,7 @@ Unified LLM client for all Cosine of Thrones agents.
 Exports:
 - GEN_MODEL
 - get_llm_client()
-- llm_client  (singleton)
+- llm_client   (singleton OpenAI client)
 - llm_chat(prompt)
 """
 
@@ -20,7 +20,7 @@ GEN_MODEL = os.getenv("GEN_MODEL", "gpt-4o-mini")
 
 
 # ----------------------------------------------------------
-# Construct new OpenAI client
+# Constructor for fresh OpenAI client
 # ----------------------------------------------------------
 def get_llm_client():
     api_key = os.getenv("OPENAI_API_KEY")
@@ -30,34 +30,30 @@ def get_llm_client():
 
 
 # ----------------------------------------------------------
-# Singleton instance used by all modules
+# Singleton OpenAI client instance
 # ----------------------------------------------------------
-_llm_instance = None
+_llm_instance = get_llm_client()
 
-def llm_client():
-    global _llm_instance
-    if _llm_instance is None:
-        _llm_instance = get_llm_client()
-    return _llm_instance
+# IMPORTANT:
+# llm_client is NOW a real OpenAI client, NOT a function.
+llm_client = _llm_instance
 
 
 # ----------------------------------------------------------
-# Minimal wrapper around Chat Completions API
+# Convenience wrapper for simple chat completions
 # ----------------------------------------------------------
 def llm_chat(prompt: str,
              model: str = None,
              temperature: float = 0.1) -> str:
     """
-    Simple helper for:
-    llm_chat("Hello") → returns text only.
+    Simple helper for quick chat calls:
+    llm_chat("Hello") → returns just text.
     """
 
     if model is None:
         model = GEN_MODEL
 
-    client = llm_client()
-
-    response = client.chat.completions.create(
+    response = llm_client.chat.completions.create(
         model=model,
         temperature=temperature,
         messages=[{"role": "user", "content": prompt}]

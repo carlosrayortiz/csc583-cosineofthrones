@@ -1,16 +1,23 @@
 """
-ANSWER_PROMPT template for grounded answers
--------------------------------------------
+ANSWER_PROMPT templates for grounded and trivia-style answers
+------------------------------------------------------------
 
-This prompt is used by the synthesizer node to produce
-a factual, evidence-grounded answer from retrieved text.
+This module defines the prompt templates used by the Cosine of Thrones
+synthesizer node. You may extend this collection later with:
 
-Variables:
-- {question}: the user's natural question
-- {evidence}: formatted evidence text (top-k chunks)
+- strict fact-only mode
+- verbose lore mode
+- creative narrative mode
+- character-perspective mode
 
-You may create other styles (strict, lore, verbose) here later.
+Current templates:
+- ANSWER_PROMPT: full grounded answer for normal pipeline use
+- TRIVIA_ANSWER_PROMPT: short factual answer for FunTrivia evaluation
 """
+
+# ============================================================
+# Full grounded answer prompt (default)
+# ============================================================
 
 ANSWER_PROMPT = """
 You are the Answer Synthesis Agent for a Game of Thrones retrieval system.
@@ -33,3 +40,39 @@ EVIDENCE:
 
 Now provide a grounded, contradiction-free answer based strictly on the evidence above.
 """
+
+
+# ============================================================
+# Trivia short-answer prompt (FunTrivia evaluation mode)
+# ============================================================
+
+TRIVIA_ANSWER_PROMPT = """
+You are an expert Game of Thrones trivia bot.
+
+Return ONLY the short factual answer.
+No explanation.
+No commentary.
+No narrative.
+Do NOT mention evidence.
+Do NOT give multiple sentences.
+
+Provide the short answer ONLY.
+
+QUESTION:
+{question}
+
+EVIDENCE:
+{evidence}
+
+Short answer:
+"""
+
+
+# ============================================================
+# Export
+# ============================================================
+
+__all__ = [
+    "ANSWER_PROMPT",
+    "TRIVIA_ANSWER_PROMPT",
+]

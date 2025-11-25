@@ -40,9 +40,13 @@ def get_reranker() -> Optional[CrossEncoder]:
         "cross-encoder/ms-marco-MiniLM-L-6-v2"
     )
 
+    # NEW: pull HF token from environment (Cloud Run-safe)
+    hf_token = os.getenv("HF_TOKEN", None)
+
     try:
         print(f"Loading reranker model: {model_name}")
-        _RERANKER = CrossEncoder(model_name)
+        # NEW: pass token if available
+        _RERANKER = CrossEncoder(model_name, use_auth_token=hf_token)
         return _RERANKER
 
     except Exception as e:

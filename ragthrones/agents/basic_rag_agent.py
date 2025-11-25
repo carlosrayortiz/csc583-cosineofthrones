@@ -16,7 +16,7 @@ Outputs:
 import json
 import pandas as pd
 
-from langchain.messages import HumanMessage
+from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from ragthrones.agents.retrieval_agent import RetrievalAgent
 
 

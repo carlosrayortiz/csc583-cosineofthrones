@@ -1,0 +1,166 @@
+qnum,question,gold,pred_freq,em_freq,f1_freq,semantic_freq,pred_llm,em_llm,f1_llm,semantic_llm
+1,Who are the two brothers of the Night's Watch Sam must fight to protect Gilly when she is nearly raped?,Brant and Derek,stannis baratheon,0.0,0.0,0.0,Aliser Thorne and Olly.,0.0,0.28571428571428575,0.1707761131901165
+2,"Daenerys is traded away as a bride to a ""savage"" in season one. Who selfishly treats her like a means to an end?",Viserys,stannis baratheon,0.0,0.0,0.0,Viserys Targaryen.,0.0,0.6666666666666666,0.5797386715376658
+3,"The Night King has so far been the main villain of the series. At the conclusion of season 7, he destroys part of the Wall. He is able to accomplish this by using one of Daenerys' dragons to burn a hole in the wall. Which dragon does he kill?",Viserion,stannis baratheon,0.0,0.0,0.0,Viserion.,1.0,1.0,1.0
+4,"At the conclusion of season 7, Cersei Lannister commands Euron Greyjoy to sail across the sea to pick up an elite group of sellswords. What is the name of the group?",The Golden Company,stannis baratheon,0.0,0.0,0.0,The Golden Company.,1.0,1.0,1.0000000000000002
+5,What is the name of Jon's direwolf?,Ghost,stannis baratheon,0.0,0.0,0.0,Ghost,1.0,1.0,1.0
+6,Which name is given to the bastards of The Reach?,Flowers,stannis baratheon,0.0,0.0,0.0,Flowers.,1.0,1.0,1.0
+7,What is the main religion of the Seven Kingdoms?,Faith of the Seven,stannis baratheon,0.0,0.0,0.0,The Faith of the Seven.,0.0,0.888888888888889,0.9449111825230683
+8,"It was Jon Arryn's sudden death that brought Ned Stark to King's Landing, where he sought the truth behind Lord Arryn's demise. Who actually killed Robert's first ""Hand of the King?""",Lysa Arryn,stannis baratheon,0.0,0.0,0.0,Lysa Arryn.,1.0,1.0,1.0000000000000002
+9,Which House is a direct vassal of House Baratheon of King's Landing?,Stokeworth,stannis baratheon,0.0,0.0,0.0,House Lannister.,0.0,0.0,0.0
+10,The Water Gardens belong to which constituency of Westeros?,Dorne,stannis baratheon,0.0,0.0,0.0,Dorne.,1.0,1.0,1.0
+11,"In the first episode, King Robert Baratheon says ""In my dreams, I kill him every night."" To whom is the King referring and why?",Rhaegar Targaryen because he kidnapped Lyanna Stark,stannis baratheon,0.0,0.0,0.0,"To Daenerys Targaryen's brother, Viserys Targaryen, because he blames him for the death of his friend, Rhaegar Targaryen.",0.0,0.3076923076923077,0.3187174479650593
+12,"At Hoster Tully's funeral, who shot the burning arrow that hit its mark?",Brynden Tully,stannis baratheon,0.0,0.0,0.0,Brienne of Tarth.,0.0,0.0,0.0
+13,"""I always hated crossbows. Take too long to load!""",Yoren,stannis baratheon,0.0,0.0,0.0,Tyrion Lannister.,0.0,0.0,0.0
+14,"In season 2, who does Tyrion tell Varys he is planning on marrying to Princess Myrcella?",Theon Greyjoy,stannis baratheon,0.0,0.0,0.0,Loras Tyrell.,0.0,0.0,0.0
+15,How many fingertips did Stannis Baratheon chop off of Davos' hand(s)?,Four,stannis baratheon,0.0,0.0,0.0,Two fingertips.,0.0,0.0,0.0
+16,Who is king of Westeros when the the series begins?,Robert Baratheon,stannis baratheon,0.0,0.5,0.33609692727625756,King Robert Baratheon.,0.0,0.8,0.7092972666062739
+17,"What is the name of the continent on which most of the action of ""Game of Thrones"" takes place?",Westeros,stannis baratheon,0.0,0.0,0.0,Westeros,1.0,1.0,1.0
+18,What is one of Sam's nicknames?,Lady Piggy,stannis baratheon,0.0,0.0,0.0,Sam the Slayer.,0.0,0.0,0.0
+19,"Daenerys finds great happiness with her ""sun and stars"" Khal Drogo, but who destroys both the husband and the unborn son?",Mirri Maz Duur the witch,stannis baratheon,0.0,0.0,0.0,Mirri Maz Duur.,0.0,0.7499999999999999,0.6569729210330907
+20,"In a flashback scene, we discover the true patronage of Jon Snow's parents. All through the series, we are led to believe Ned Stark is Jon's dad, and Jon is his bastard son. But this is not true - who is Jon's real father?",Rhaegar Targaryen,stannis baratheon,0.0,0.0,0.0,Rhaegar Targaryen.,1.0,1.0,1.0000000000000002
+21,What is Olenna's relationship to Mace Tyrell?,mother,stannis baratheon,0.0,0.0,0.0,Mother.,1.0,1.0,1.0
+22,Which name is given to the bastards of The Westerlands?,Hill,stannis baratheon,0.0,0.0,0.0,Rivers.,0.0,0.0,0.0
+23,Which religion does the Brotherhood Without Banners preach?,"R'hllor, the Lord of Light",stannis baratheon,0.0,0.0,0.0,The Faith of the Seven.,0.0,0.3636363636363636,0.3561776636856883
+24,What nasty creature felled a drunken King Robert?,Boar,stannis baratheon,0.0,0.0,0.0,A boar.,0.0,0.6666666666666666,1.0
+25,Which tongue is commonly used by the Priests or Priestesses of R'hllor?,High Valyrian,stannis baratheon,0.0,0.0,0.0,High Valyrian.,1.0,1.0,1.0000000000000002
+26,"Though Dragonstone was the seat of the Targaryens in former times, which self-proclaimed king of Westeros can we find there at a certain moment of the show?",Stannis Baratheon,stannis baratheon,1.0,1.0,1.0000000000000002,Stannis Baratheon.,1.0,1.0,1.0000000000000002
+27,"At the end of his training, what must an Unsullied kill to prove he has no mercy or weakness?",A newborn slave child,stannis baratheon,0.0,0.0,0.0,A newborn puppy.,0.0,0.5714285714285715,0.26055567105626243
+28,Who was the liege lord of the Freys before the War of the Five Kings?,Hoster Tully,stannis baratheon,0.0,0.0,0.0,House Tully.,0.0,0.5,0.33609692727625756
+29,"""Say it. Say her name. Say it!""",Oberyn Martell,stannis baratheon,0.0,0.0,0.0,Daenerys Targaryen.,0.0,0.0,0.0
+30,What is the sigil of the House Clegane?,Three dogs,stannis baratheon,0.0,0.0,0.0,A black dog on a gold field.,0.0,0.0,0.0
+31,What was the name of the person who chopped off Jaime's right hand?,Locke,stannis baratheon,0.0,0.0,0.0,Locke.,1.0,1.0,1.0
+32,What noble house is Catelyn Stark from?,House Tully,stannis baratheon,0.0,0.0,0.0,House Tully.,1.0,1.0,1.0000000000000002
+33,"At the end of season 2, Joffrey Baratheon sits on the Iron Throne, but which Baratheon is actually the rightful king?",Stannis Baratheon,stannis baratheon,1.0,1.0,1.0000000000000002,Stannis Baratheon.,1.0,1.0,1.0000000000000002
+34,Where did Sam get the thimble that he gave to Gilly?,His mother,stannis baratheon,0.0,0.0,0.0,From a dead man in the woods.,0.0,0.0,0.0
+35,"Khaleesi Daenerys is directed to go live among the widows of Khal warlords, but instead she does what to the Dothraki warlords who will not serve a woman?",Sets fire to them,stannis baratheon,0.0,0.0,0.0,She burns them alive.,0.0,0.25,0.14438355527738675
+36,"Bran Stark, now the three-eyed raven, took a perilous quest to go north and find the previous three-eyed raven. What lovable but simple man, who could speak one single word, died for Bran while they were escaping from wights?",Hodor,stannis baratheon,0.0,0.0,0.0,Hodor.,1.0,1.0,1.0
+37,"Why could Jon leave the Night's Watch, since his vows were for life?",He died,stannis baratheon,0.0,0.0,0.0,He was elected King in the North.,0.0,0.22222222222222224,0.161713780662529
+38,Which name is given to the inhabitants of The Neck?,Crannogmen,stannis baratheon,0.0,0.0,0.0,The Neckers.,0.0,0.0,0.0
+39,What does The Warrior represent in the Faith of the Seven?,Strength and courage on the battlefield,stannis baratheon,0.0,0.0,0.0,The Warrior represents courage and battle.,0.0,0.5,0.3360969272762574
+40,"On the orders of King Joffrey, Ilyn Payne beheads Ned Stark with which ancient sword?",Ice,stannis baratheon,0.0,0.0,0.0,Ice.,1.0,1.0,1.0
+41,What is the motto of House Greyjoy?,We Do Not Sow,stannis baratheon,0.0,0.0,0.0,We Do Not Sow.,1.0,1.0,1.0
+42,Which sword was wielded by Visenya Targaryen?,Dark Sister,stannis baratheon,0.0,0.0,0.0,Doom.,0.0,0.0,0.0
+43,Who was the Lightning Lord?,Beric Dondarrion,stannis baratheon,0.0,0.0,0.0,Beric Dondarrion.,1.0,1.0,1.0000000000000002
+44,Who attempts to kill Tyrion on the battlefield in the Battle of Blackwater Bay?,Ser Mandon Moore,stannis baratheon,0.0,0.0,0.0,Ser Meryn Trant.,0.0,0.3333333333333333,0.20199309249791836
+45,Who is in the tent when Renly Baratheon is killed by the mysterious shadow?,Catelyn Stark,stannis baratheon,0.0,0.0,0.0,Stannis Baratheon.,0.0,0.0,0.0
+46,How many kings were there in The Seven Kingdoms at the end of season 2?,Four,stannis baratheon,0.0,0.0,0.0,Five.,0.0,0.0,0.0
+47,Who is the true heir to the iron throne after Robert's death?,Stannis Baratheon,stannis baratheon,1.0,1.0,1.0000000000000002,Joffrey Baratheon.,0.0,0.5,0.33609692727625756
+48,"In 2011, which actor who plays Tyrion Lannister, won the Golden Globe award for Best Performance by an Actor in a Supporting Role in a Series?",Peter Dinklage,stannis baratheon,0.0,0.0,0.0,Peter Dinklage.,1.0,1.0,1.0000000000000002
+49,Under what religion was Sam named as a child?,Faith of the Seven,stannis baratheon,0.0,0.0,0.0,The Faith of the Seven.,0.0,0.888888888888889,0.9449111825230683
+50,"At the slave city of Astapor Daenerys uses clever strategy to outwit the vulgar slavedriver Kraznys mo Nakloz, bargaining over which creature?",Her dragon,stannis baratheon,0.0,0.0,0.0,A dragon.,0.0,0.5,0.5797386715376658
+51,"Sam, who is the arguably the weakest, slowest, and most out-of-shape member of the Night's Watch, somehow manages to escape a mutiny at Craster's Keep. While escaping, he rescues a daughter of Craster. What is her name?",Gilly,stannis baratheon,0.0,0.0,0.0,Gilly.,1.0,1.0,1.0
+52,Who did Jon execute after his first general meeting as Lord Commander with the men of the Night's Watch?,Janos Slynt,stannis baratheon,0.0,0.0,0.0,Alliser Thorne.,0.0,0.0,0.0
+53,The destruction of the Great Sept of Baelor caused many casualties. Which two characters died during the explosion?,Margaery Tyrell and Lancel Lannister,stannis baratheon,0.0,0.0,0.0,Margaery Tyrell and Loras Tyrell.,0.0,0.6,0.5372450751597533
+54,Who believes in the Old Gods of the Forest?,Eddard Stark and Jon Snow,stannis baratheon,0.0,0.0,0.0,"The Northmen, particularly the Stark family and the Free Folk (Wildlings).",0.0,0.25000000000000006,0.12631460871586422
+55,"Sansa Stark and Tyrion Lannister were suspected of poisoning King Joffrey. Who, however, really did the little monster in?",Olenna Tyrell,stannis baratheon,0.0,0.0,0.0,Olenna Tyrell.,1.0,1.0,1.0000000000000002
+56,Which houses have symbols in their sigils related to the sea?,Manderly and Upcliff,stannis baratheon,0.0,0.0,0.0,House Greyjoy and House Tully.,0.0,0.25,0.12536693798731732
+57,What is the name of the gate that leads to The Eyrie?,The Bloody Gate,stannis baratheon,0.0,0.0,0.0,The Moon Door.,0.0,0.3333333333333333,0.20199309249791836
+58,What distinct feature does Brienne of Tarth recall about the entity that killed Renly Baratheon?,It had Stannis Baratheon's face,stannis baratheon,0.0,0.5,0.5023287782256719,A shadow with a human shape.,0.0,0.0,0.0
+59,What was the name of the boy Arya was playing with (and who later died) when Nymeria attacked Joffrey?,Mycah,stannis baratheon,0.0,0.0,0.0,Mycah.,1.0,1.0,1.0
+60,"""Together we can end this war in a fortnight!""",Renly Baratheon,stannis baratheon,0.0,0.5,0.33609692727625756,Tyrion Lannister.,0.0,0.0,0.0
+61,"How many times did Thoros of Myr resurrect Beric Dondarrion from death, up until the end of season 3?",6,stannis baratheon,0.0,0.0,0.0,Six times.,0.0,0.0,0.0
+62,What is that name of Robb Stark's wife?,Talisa,stannis baratheon,0.0,0.0,0.0,Talisa Maegyr.,0.0,0.6666666666666666,0.5797386715376658
+63,"Aside from being Master of Coin and a member of the King's Small Council, the character of Peter ""Littlefinger"" Baelish from King's Landing also runs what kind of business?",brothel,stannis baratheon,0.0,0.0,0.0,A brothel.,0.0,0.6666666666666666,1.0
+64,"After the Battle of the Fist of the First Men, as the survivors are trying to make it back to the Wall, Sam collapses from exhaustion. Which of his brothers wishes to leave him because he is slowing them down?",Rast,stannis baratheon,0.0,0.0,0.0,Alliser Thorne.,0.0,0.0,0.0
+65,"Yara Greyjoy is the only daughter of Balon Greyjoy and Theon's older sister. When Theon is later captured by Ramsay Bolton, Yara launches a rescue mission to free Theon. Where was Theon being held?",Dreadfort,stannis baratheon,0.0,0.0,0.0,Winterfell.,0.0,0.0,0.0
+66,What is Meera's relationship to Howland Reed?,daughter,stannis baratheon,0.0,0.0,0.0,Meera is Howland Reed's daughter.,0.0,0.2857142857142857,0.33517574332792605
+67,Where did Jon take his Night's Watch vows?,Beside a weirwood tree north of the Wall,stannis baratheon,0.0,0.0,0.0,At the Wall.,0.0,0.36363636363636365,0.2910691023819055
+68,What are the names of Elia Martell's children?,Rhaenys and Aegon,stannis baratheon,0.0,0.0,0.0,Aegon and Rhaenys.,0.0,1.0,1.0000000000000002
+69,Which religion does the Faith Militant preach?,Faith of the Seven,stannis baratheon,0.0,0.0,0.0,The Faith of the Seven.,0.0,0.888888888888889,0.9449111825230683
+70,"Each night before sleep Arya Stark speaks the names of those she wishes dead. Who wasn't on little Arya's original ""hit list?""",Walder Frey,stannis baratheon,0.0,0.0,0.0,Cersei Lannister.,0.0,0.0,0.0
+71,Which houses have animals in their sigils?,"Stark, Lydden, Hornwood and Blackmont",stannis baratheon,0.0,0.0,0.0,"Stark, Lannister, Baratheon, Tully, Greyjoy, Tyrell, Martell, Arryn.",0.0,0.15384615384615385,0.08704446792504217
+72,Which chemical was used during the Battle of the Blackwater to destroy Stannis Baratheon's fleet?,Wildfire,stannis baratheon,0.0,0.0,0.0,Wildfire.,1.0,1.0,1.0
+73,In which Westeros constituency can we find The Dreadfort?,The North,stannis baratheon,0.0,0.0,0.0,The North.,1.0,1.0,1.0000000000000002
+74,"The Hound says, ""Killing is the sweetest thing there is."" To whom does he say this, and why?",To Sansa in an attempt to scare her out of her fantasy world,stannis baratheon,0.0,0.0,0.0,"He says this to Arya Stark, to express his views on violence and killing.",0.0,0.14814814814814817,0.13949604716377959
+75,Who is Myrcella betrothed to in season 2?,Trystane Martell,stannis baratheon,0.0,0.0,0.0,Trystane Martell.,1.0,1.0,1.0000000000000002
+76,"""We are the watchers on the wall!""",Qhorin Halfhand,stannis baratheon,0.0,0.0,0.0,The Night's Watch.,0.0,0.0,0.0
+77,"What is Daenerys' response to Kraznys mo Nakloz after he tells Missandei to tell Daenerys that her ""beast won't come"" to him after the exchange of Drogon for the army of Unsullied?","""A dragon is not a slave""",stannis baratheon,0.0,0.0,0.0,"""Dracarys.""",0.0,0.0,0.0
+78,"When Melisandre says that 'There is power in a King's blood', who is she thinking of offering as sacrifice to the Red God?","Gendry, bastard son of Robert",stannis baratheon,0.0,0.0,0.0,Gendry.,0.0,0.33333333333333337,0.33517574332792605
+79,"To how many different Starks had Sandor Clegane, called The Hound, spoken in seasons 1-3?",Three,stannis baratheon,0.0,0.0,0.0,Three.,1.0,1.0,1.0
+80,What is the name of Arya Stark's sword?,Needle,stannis baratheon,0.0,0.0,0.0,Needle.,1.0,1.0,1.0
+81,"It's usually Sam's brains and not his bronze that gets him out of most situations. Because he knows so many things from staring at marks on paper, what does Gilly believe he must be?",Wizard,stannis baratheon,0.0,0.0,0.0,A wizard.,0.0,0.6666666666666666,1.0
+82,"The Warlock of Qarth steals the dragons belonging to Daenerys, and chains them up in what tower of illusions?",House of the Undying,stannis baratheon,0.0,0.0,0.0,The House of the Undying.,0.0,0.888888888888889,0.9449111825230683
+83,"Jorah Mormont, Daenery's trusted advisor for most of the series, becomes afflicted with a deadly disease that was thought incurable. What is the name of this disease?",Greyscale,stannis baratheon,0.0,0.0,0.0,Greyscale.,1.0,1.0,1.0
+84,"During the Red Wedding, which Houses were allies against the Starks?","Frey, Bolton and Lannister",stannis baratheon,0.0,0.0,0.0,House Frey and House Bolton.,0.0,0.6666666666666665,0.4073526042885675
+85,"To whom Jon says ""If I fall, don't bring me back.""?",Melisandre,stannis baratheon,0.0,0.0,0.0,To Melisandre.,0.0,0.6666666666666666,0.5797386715376658
+86,What is the guest right?,"When a guest eats or drinks in the host's table and beneath his roof, neither the guest or the host can harm each other",stannis baratheon,0.0,0.0,0.0,A sacred tradition that grants protection to guests under a host's roof.,0.0,0.2105263157894737,0.08869693147412193
+87,"The ""Red Wedding"" claimed the lives of many a Stark. Which member of that northern clan  DIDN'T die as a guest of Walder Frey?",Benjen Stark,stannis baratheon,0.0,0.0,0.0,Sansa Stark.,0.0,0.5,0.33609692727625756
+88,In which cities did Daenerys stop by before taking up residence in Meereen after crossing the Red Waste?,"Qarth, Astapor and Yunkai",stannis baratheon,0.0,0.0,0.0,Daenerys stopped in Qarth and Astapor before taking up residence in Meereen.,0.0,0.375,0.2704643173798549
+89,"On their way to Meereen, Jorah and Tyrion find the stone men near the ancient ruins of which place?",Valyria,stannis baratheon,0.0,0.0,0.0,Valyria.,1.0,1.0,1.0
+90,"""You'll have to carry me.""",Lommy,stannis baratheon,0.0,0.0,0.0,Bran Stark.,0.0,0.0,0.0
+91,What is the first thing Jon Snow says in the first episode in season 4?,"""Last time I saw him, he was in the courtyard at Winterfell"".",stannis baratheon,0.0,0.0,0.0,"""Do you want to see the world?""",0.0,0.10526315789473685,0.06123094334544521
+92,"Bronn, sellsword under the command of Tyrion, was awarded for his service in the Blackwater Battle against Stannis' army. What was this reward?",He was anointed knight 'Ser Bronn',stannis baratheon,0.0,0.0,0.0,"A lordship over the land of the Stormlands, specifically the title of Lord of Highgarden.",0.0,0.0,0.0
+93,How many of the Stark direwolves were confirmed dead in the first three seasons?,Two,stannis baratheon,0.0,0.0,0.0,Two.,1.0,1.0,1.0
+94,What house has a sigil of a silver trout?,House Tully,stannis baratheon,0.0,0.0,0.0,House Tully.,1.0,1.0,1.0000000000000002
+95,By what name do the Seven Kingdoms refer to the Free Folk who live in north beyond the Wall?,wildlings,stannis baratheon,0.0,0.0,0.0,Wildlings.,1.0,1.0,1.0
+96,What is the name of the ancestral Valyrian steel sword belonging to House Tarly?,Heartsbane,stannis baratheon,0.0,0.0,0.0,Heartsbane.,1.0,1.0,1.0
+97,"Daenerys frees a slave in Astapor who becomes a close friend and advisor. Who loves an Unsullied, but Daenerys will watch her beheaded?",Missandei,stannis baratheon,0.0,0.0,0.0,Missandei.,1.0,1.0,1.0
+98,"Arya Stark, the youngest Stark girl, was given a blade by Jon Snow back in season 1. This blade has become Arya's most treasured possession. This blade often comes in handy as Arya becomes a deadly killer. What is the name of the sword?",Needle,stannis baratheon,0.0,0.0,0.0,Needle.,1.0,1.0,1.0
+99,Which House has no remaining legitimate heirs at the time Cersei Lannister becomes Queen of Westeros?,Baratheon,stannis baratheon,0.0,0.6666666666666666,0.5797386715376658,House Baratheon.,0.0,0.6666666666666666,0.5797386715376658
+100,Jon orders Rickon's body to be buried where?,The crypt of House Stark,stannis baratheon,0.0,0.0,0.0,In the crypts of Winterfell.,0.0,0.4000000000000001,0.25233420143369617
+101,Which brother of the Night's Watch brought an end to Ygritte and (temporarily) Jon Snow?,Olly,stannis baratheon,0.0,0.0,0.0,Alliser Thorne.,0.0,0.0,0.0
+102,What is the motto of House Tyrell?,Growing Strong,stannis baratheon,0.0,0.0,0.0,Growing Strong.,1.0,1.0,1.0000000000000002
+103,What is the nickname given to Brynden Tully?,Blackfish,stannis baratheon,0.0,0.0,0.0,The Blackfish.,0.0,0.6666666666666666,0.5797386715376658
+104,Where can we find the Moon Door?,The Eyrie,stannis baratheon,0.0,0.0,0.0,The Eyrie.,1.0,1.0,1.0000000000000002
+105,"""I am your master! Kill her! Kill her!"" Kraznyz mo Nakloz is yelling at whom to kill Daenerys?",The Unsullied,stannis baratheon,0.0,0.0,0.0,The Unsullied.,1.0,1.0,1.0000000000000002
+106,What are the words of House Martell?,"""Unbowed, Unbent, Unbroken""",stannis baratheon,0.0,0.0,0.0,"Unbowed, Unbent, Unbroken.",1.0,1.0,1.0000000000000002
+107,"""He'll stab us in the back first chance he gets.""",Orell,stannis baratheon,0.0,0.0,0.0,Petyr Baelish (Littlefinger).,0.0,0.0,0.0
+108,What is the name of the man that Arya kills in season 4 after he tries to kill The Hound due to the bounty on The Hound's head?,Rorge,stannis baratheon,0.0,0.0,0.0,Polliver.,0.0,0.0,0.0
+109,Where was Catelyn Stark when she died?,The Twins,stannis baratheon,0.0,0.0,0.0,The Twins.,1.0,1.0,1.0000000000000002
+110,Who was Hand of the King before Eddard Stark?,Jon Arryn,stannis baratheon,0.0,0.0,0.0,Jon Arryn.,1.0,1.0,1.0000000000000002
+111,Who was the Archmaester responsible for Sam at the Citadel?,Ebrose,stannis baratheon,0.0,0.0,0.0,Archmaester Ebrose.,0.0,0.6666666666666666,0.5797386715376658
+112,"Daenerys and Jon Snow enjoyed a sweet courtship and shared goals, never mind fierce fighting together. But which name, learned late in the series, tears them apart?",Aegon,stannis baratheon,0.0,0.0,0.0,Aegon Targaryen.,0.0,0.6666666666666666,0.5797386715376658
+113,Who was Ros' regular customer at Winterfell?,Theon Greyjoy,stannis baratheon,0.0,0.0,0.0,Theon Greyjoy.,1.0,1.0,1.0000000000000002
+114,"When Olenna visits Dorne and talks to Ellaria Sand, she intentionally forgets Obara's name. What does she call Obara?",Barbaro,stannis baratheon,0.0,0.0,0.0,"""Obara"" is referred to as ""the one with the spear.""",0.0,0.0,0.0
+115,"If the Night's Watch is a brotherhood, Jon Snow is guilty of serial fratricide. Who amongst these black brothers was not slain by ""Lord Snow?""",Jeor Mormont,stannis baratheon,0.0,0.0,0.0,Pyp.,0.0,0.0,0.0
+116,Which Houses have black as the main color of their sigil?,Harlaw and Stonetree,stannis baratheon,0.0,0.0,0.0,"House Stark, House Arryn, House Targaryen (historically), House Velaryon.",0.0,0.0,0.0
+117,Shae meets Tyrion for the first time in a Lannister army's camp. Where?,The Riverlands,stannis baratheon,0.0,0.0,0.0,In the camp outside of the city of King's Landing.,0.0,0.15384615384615385,0.23790309463326237
+118,Daenerys crosses a desert in Essos on her way to Qarth. What is this desert called?,The Red Waste,stannis baratheon,0.0,0.0,0.0,The Red Waste.,1.0,1.0,1.0000000000000002
+119,How many Starks appeared in the first episode of the series?,8,stannis baratheon,0.0,0.0,0.0,Five Starks.,0.0,0.0,0.0
+120,"""Kill me and be cursed. You are no king of mine!""",Rickard Karstark,stannis baratheon,0.0,0.0,0.0,Mance Rayder,0.0,0.0,0.0
+121,What were Tywin Lannister's last words before Tyrion killed him?,"""You're no son of mine"".",stannis baratheon,0.0,0.0,0.0,"""You're no son of mine.""",1.0,1.0,1.0000000000000002
+122,Which was the crime committed by Ser Jorah Mormot when living in Westeros? This crime was the reason while he had to exile to Essos.,Trading slaves,stannis baratheon,0.0,0.0,0.0,He sold slaves.,0.0,0.4,0.26055567105626243
+123,What is the relationship between Renly's wife and Renly's actual lover?,They're siblings,stannis baratheon,0.0,0.0,0.0,"Renly's wife, Margaery Tyrell, is the sister of his actual lover, Loras Tyrell.",0.0,0.0,0.0
+124,How many men did Theon Greyjoy use to capture Winterfell?,20,stannis baratheon,0.0,0.0,0.0,Twenty men.,0.0,0.0,0.0
+125,Which position on the king's small council is his closest adviser and has the power to make decisions in the king's absence?,Hand of the King,stannis baratheon,0.0,0.0,0.0,Hand of the King.,1.0,1.0,1.0
+126,Who saved Sam from being killed by a wight in the Battle of Winterfell?,Edd,stannis baratheon,0.0,0.0,0.0,Edd Tollett.,0.0,0.6666666666666666,0.5797386715376658
+127,"Daenerys brings her dragons and her armies across the sea to Winterfell, in order to help Jon Snow defeat the Night King and his army. Who promised to support this war with significant troops, but was lying and never showed?",Cersei,stannis baratheon,0.0,0.0,0.0,Cersei Lannister.,0.0,0.6666666666666666,0.5797386715376658
+128,"Gendry, a bastard son of Robert Baratheon, lived most of his life in the slums of Flea Bottom in King's Landing. Here he worked as an apprentice, becoming skilled in what trade?",Blacksmithing,stannis baratheon,0.0,0.0,0.0,Blacksmithing.,1.0,1.0,1.0
+129,"Davos Seaworth is arguably Jon Snow's most trusted advisor at the moment. But before his allegiance was with Jon, Davos previously gave advice to what man, a younger brother of a former king.",Stannis Baratheon,stannis baratheon,1.0,1.0,1.0000000000000002,Stannis Baratheon.,1.0,1.0,1.0000000000000002
+130,What is Rhaella's relationship to Daenerys Targaryen?,mother,stannis baratheon,0.0,0.0,0.0,Rhaella is Daenerys Targaryen's mother.,0.0,0.2857142857142857,0.33517574332792605
+131,What does Varys usually claim to be his aim?,Serve the realm,stannis baratheon,0.0,0.0,0.0,The realm.,0.0,0.8,0.7092972666062739
+132,"Oberyn Martell died championing Tyrion Lannister in a ""trial by combat."" By what nickname was his killer known?",The Mountain,stannis baratheon,0.0,0.0,0.0,The Mountain.,1.0,1.0,1.0000000000000002
+133,"Which House has the motto ""As High as Honor""?",Arryn,stannis baratheon,0.0,0.0,0.0,House Arryn.,0.0,0.6666666666666666,0.5797386715376658
+134,Who created the first White Walker?,The Children of the Forest,stannis baratheon,0.0,0.0,0.0,The Night King.,0.0,0.25,0.2853061909813609
+135,Whose death does Arya Stark witness at the notoriously killer Red Wedding?,Grey Wind,stannis baratheon,0.0,0.0,0.0,Robb Stark.,0.0,0.0,0.0
+136,How many kings did Tywin Lannister serve as the Hand?,3,stannis baratheon,0.0,0.0,0.0,Three.,0.0,0.0,0.0
+137,"""Do you hear? Do you hear?""",Locke,stannis baratheon,0.0,0.0,0.0,The words of the Three-Eyed Raven.,0.0,0.0,0.0
+138,Where is Princess Myrcella being sent to? (This was Tyrion's idea.),Dorne,stannis baratheon,0.0,0.0,0.0,Dorne.,1.0,1.0,1.0
+139,Who was on the ship Sansa was looking at while she was crying?,Petyr Baelish,stannis baratheon,0.0,0.0,0.0,The ship was carrying Tyrion Lannister.,0.0,0.0,0.0
+140,"Who is Joffrey, Myrcella and Tommen's real father?",Jaime Lannister,stannis baratheon,0.0,0.0,0.0,Jaime Lannister.,1.0,1.0,1.0000000000000002
+141,For what reason was Hand of the King Eddard (Ned) Stark executed?,Challenging Joffrey's right to be king,stannis baratheon,0.0,0.0,0.0,Treason.,0.0,0.0,0.0
+142,"Which abandoned castle was the location where Sam and Gilly met up with Bran, Hodor, Jojen and Meera?",Nightfort,stannis baratheon,0.0,0.0,0.0,The Nightfort.,0.0,0.6666666666666666,0.5797386715376658
+143,"Preparing for war against Queen Cersei, Daenerys learns an advisor has betrayed her by spreading the secret of Jon Snow's claim to the throne. Who does she condemn to die by dragon?","Varys, the Spider",stannis baratheon,0.0,0.0,0.0,Varys.,0.0,0.5,0.44943641652398214
+144,"Lyanna Mormont, the young ruler of Bear Island is only a girl, and is only 13 years old at the time of season 8. She shares her last name with Jorah Mormont, as they are related. How are they related?",First cousins,stannis baratheon,0.0,0.0,0.0,Cousins.,0.0,0.6666666666666666,0.5797386715376658
+145,"Tyrion Lannister, the younger brother of Jamie and Cersei, has had a hard life. What is Tyrion's defining trait that caused him to be hated by his father, Tywin Lannister?",All of these,stannis baratheon,0.0,0.0,0.0,His dwarfism.,0.0,0.0,0.0
+146,Who is Jon's mother?,Lyanna Stark,stannis baratheon,0.0,0.0,0.0,Lyanna Stark.,1.0,1.0,1.0000000000000002
+147,"Who wrote ""Bear Island knows no king but the King in the North, whose name is Stark"" in a letter adressed to Stannis Baratheon?",Lyanna Mormont,stannis baratheon,0.0,0.0,0.0,Jon Snow.,0.0,0.0,0.0
+148,The fiery sacrifice of Shireen Baratheon may have been the cruelest death on a show famous for such things. Who amongst the following was NOT complicit in the princess' haunting end?,Davos Seaworth,stannis baratheon,0.0,0.0,0.0,Tyrion Lannister.,0.0,0.0,0.0
+149,The most well-known motto of all Houses: what is the motto of House Stark?,Winter is Coming,stannis baratheon,0.0,0.0,0.0,Winter is Coming.,1.0,1.0,1.0000000000000002
+150,What is the capital of Westeros?,King's Landing,stannis baratheon,0.0,0.0,0.0,King's Landing.,1.0,1.0,1.0000000000000002
+151,"""You killed her children. Say her name!""  Prince Oberyn Martell is shouting at the Mountain to say what name?",Elia,stannis baratheon,0.0,0.0,0.0,Myrcella.,0.0,0.0,0.0
+152,What is the last name for bastards in Dorne?,Sand,stannis baratheon,0.0,0.0,0.0,Sand,1.0,1.0,1.0
+153,How many Starks appeared in the first episode of season 1 (pilot episode)?,8,stannis baratheon,0.0,0.0,0.0,Five Starks.,0.0,0.0,0.0
+154,Who was behind the slaughter that took place during the infamous Red Wedding?,Tywin Lannister,stannis baratheon,0.0,0.0,0.0,"House Frey, with the support of House Bolton and House Lannister.",0.0,0.15384615384615385,0.1015285240384222
+155,Who was Shagga's father?,Dolf,stannis baratheon,0.0,0.0,0.0,"Shagga's father was a mountain clansman known as ""the Old Man of the Mountain.""",0.0,0.0,0.0
+156,What king dies in season 1?,Robert,stannis baratheon,0.0,0.0,0.0,King Robert Baratheon.,0.0,0.5,0.44943641652398214
+157,"Daenerys Targaryen has three children. These ""children"" are actually what?",dragons,stannis baratheon,0.0,0.0,0.0,Dragons.,1.0,1.0,1.0
+158,What is Eddard Stark's kinship to Jon Snow?,uncle,stannis baratheon,0.0,0.0,0.0,Eddard Stark is Jon Snow's uncle.,0.0,0.25,0.3032160644503863
+159,"""Do it quickly.""",Maester Luwin,stannis baratheon,0.0,0.0,0.0,Yes.,0.0,0.0,0.0
+160,Which kings did Jaime Lannister serve as a Kingsguard?,"Aerys II, Robert Baratheon and Joffrey Baratheon",stannis baratheon,0.0,0.22222222222222224,0.31125746752705374,Aerys II Targaryen and Robert Baratheon.,0.0,0.7692307692307692,0.7192918182472702
+161,"""Give me something for the pain, and let me die.""",Robert Baratheon,stannis baratheon,0.0,0.5,0.33609692727625756,Khal Drogo.,0.0,0.0,0.0
+162,What is Visenya Targaryen's relationship to Aegon I?,Wife and sister,stannis baratheon,0.0,0.0,0.0,Sister and wife.,0.0,1.0,1.0000000000000002
+163,Arthur Dayne was a member of the Kingsguard of which king?,Aerys II,stannis baratheon,0.0,0.0,0.0,Aegon IV Targaryen.,0.0,0.0,0.0
+164,"""I shall have your head for this!""",Lord Commander Mormont,stannis baratheon,0.0,0.0,0.0,Ned Stark.,0.0,0.0,0.0
+165,"""Gods help you Theon Greyjoy. Now you are truly lost.""",Rodrik Cassel,stannis baratheon,0.0,0.0,0.0,Yara Greyjoy.,0.0,0.0,0.0

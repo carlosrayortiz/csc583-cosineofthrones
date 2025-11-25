@@ -1,0 +1,64 @@
+# -----------------------------
+# Python virtual environments
+# -----------------------------
+venv/
+env/
+.myenv/
+myenv/
+
+# -----------------------------
+# Python cache
+# -----------------------------
+__pycache__/
+*.pyc
+
+# -----------------------------
+# OS junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Git
+# -----------------------------
+.git/
+.gitignore
+
+# -----------------------------
+# Jupyter notebooks & checkpoints
+# -----------------------------
+*.ipynb
+.ipynb_checkpoints/
+
+# -----------------------------
+# Build artifacts
+# -----------------------------
+dist/
+build/
+*.egg-info/
+
+# -----------------------------
+# Local vectorstore artifacts 
+# (NOW STORED IN GCS)
+# -----------------------------
+ragthrones/data/artifacts/
+ragthrones/data/*.pkl
+ragthrones/data/*.npz
+ragthrones/data/*.faiss
+ragthrones/data/*.index
+
+# -----------------------------
+# Large raw data (keep container small)
+# -----------------------------
+*.pkl
+*.npz
+*.npy
+*.faiss
+*.index
+
+# -----------------------------
+# Bytecode or temp files
+# -----------------------------
+*.log
+*.tmp
+*.lock

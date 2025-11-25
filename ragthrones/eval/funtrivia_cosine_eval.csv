@@ -1,0 +1,479 @@
+qnum,question,gold,pred,em,f1,semantic,nss_total_weighted,evidence
+1,Who are the two brothers of the Night's Watch Sam must fight to protect Gilly when she is nearly raped?,Brant and Derek,Rast and Karl Tanner.,0.0,0.28571428571428575,0.1707761131901165,104,"[SnanEnan] 
+===Beyond the Wall===
+Rast declares the Night's Watch cannot trust Craster, and Sam and Gilly discuss her newborn son. After a funeral for a fallen brother, Karl Tanner challenges Craster over their poor food, and Rast enrages Craster by mentioning his bastard parentage. Craster orders t"
+2,"Daenerys is traded away as a bride to a ""savage"" in season one. Who selfishly treats her like a means to an end?",Viserys,Viserys Targaryen.,0.0,0.6666666666666666,0.5797386715376658,104,"[SnanEnan] 
+====Season 1====
+Daenerys Targaryen is introduced as the exiled princess of the Targaryen dynasty. She and her brother Viserys were smuggled to Essos during the end of Robert's Rebellion. For most of her life, she has been under the care of Viserys, whom she fears, as he is abusive to he"
+3,"The Night King has so far been the main villain of the series. At the conclusion of season 7, he destroys part of the Wall. He is able to accomplish this by using one of Daenerys' dragons to burn a hole in the wall. Which dragon does he kill?",Viserion,Viserion,1.0,1.0,1.0,130,"[SnanEnan] 
+===Beyond the Wall===
+* '''Night King''' (seasons 4–8) portrayed by Richard Brake in seasons 4 and 5, and Vladimir ""Furdo"" Furdik from season 6, the Night King is the leader and first of the White Walkers. He converts Craster's baby sons into White Walkers for his army, and later leads a"
+4,"At the conclusion of season 7, Cersei Lannister commands Euron Greyjoy to sail across the sea to pick up an elite group of sellswords. What is the name of the group?",The Golden Company,The Golden Company.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+====Season 7====
+Daenerys arrives at the island fortress of Dragonstone, the ancient Targaryen stronghold once held by the late Stannis Baratheon, and finds it abandoned. She sends the Unsullied to take Casterly Rock, and Yara Greyjoy's fleet, along with ships from Dorne, to blockade Kin"
+5,What is the name of Jon's direwolf?,Ghost,Ghost,1.0,1.0,1.0,130,"[S3.0E10.0] You're Jon's brother. The one who fell from the window. No, I'm not. I've been around Ghost enough to know a direwolf when I see one. And I've heard all about Hodor. Hodor.
+[SnanEnan] 
+====Direwolves====
+A number of characters retain wolf-like pets called '''direwolves'''. In the book se"
+6,Which name is given to the bastards of The Reach?,Flowers,Flowers,1.0,1.0,1.0,130,"[SnanEnan] 
+== House Tyrell  ==
+House Tyrell is one of the Great Houses of the Seven Kingdoms and is the principal noble house in the Reach. Its seat is at Highgarden where they reside as the Wardens of the South. Its coat of arms displays a golden rose on a green field, and its words are ''Growing "
+7,What is the main religion of the Seven Kingdoms?,Faith of the Seven,The Faith of the Seven.,0.0,0.888888888888889,0.9449111825230683,130,"[S1.0E9.0] Lord of the Seven Kingdoms... and Protector of the Realm. As... As we sin... so do we suffer. This man has confessed his crimes... in sight of gods and men.
+[SnanEnan] The fictional world in which the ''A Song of Ice and Fire'' novels by George R. R. Martin take place is divided into seve"
+8,"It was Jon Arryn's sudden death that brought Ned Stark to King's Landing, where he sought the truth behind Lord Arryn's demise. Who actually killed Robert's first ""Hand of the King?""",Lysa Arryn,Lysa Arryn.,1.0,1.0,1.0000000000000002,24,"[SnanEnan] 
+====Season 1====
+In season 1, King Robert Baratheon asks his old friend Eddard ""Ned"" Stark, Lord of Winterfell and Warden of the North, to assume the position of Hand of the King after the sudden death of their mentor, Jon Arryn. Not interested in politics or the intrigues of the court, "
+9,Which House is a direct vassal of House Baratheon of King's Landing?,Stokeworth,House Tyrell,0.0,0.0,0.0,24,"[SnanEnan] 
+== House Baratheon  ==
+Coat of arms of House Baratheon
+House Baratheon is the youngest of the Great Houses of the Seven Kingdoms and the principal house of the Stormlands. It was founded by the bastard half-brother of the first Targaryen King, Orys Baratheon. The main seat of House Barat"
+10,The Water Gardens belong to which constituency of Westeros?,Dorne,Dorne,1.0,1.0,1.0,130,"[S5.0E2.0] Oberyn mentioned the Water Gardens. I'll find her. Is there anything else, Your Grace? You're going to Dorne? A one-handed man alone? I never said I was going alone.
+[S5.0E6.0] It can wait. There. That's the Water Gardens. <i>And once we've got the princess, then what?</i> I like to impro"
+11,"In the first episode, King Robert Baratheon says ""In my dreams, I kill him every night."" To whom is the King referring and why?",Rhaegar Targaryen because he kidnapped Lyanna Stark,"Rhaegar Targaryen, for kidnapping Lyanna Stark.",0.0,0.6153846153846153,0.45026814465562653,130,"[S1.0E6.0] In the name of Robert of the House Baratheon, the First of his Name, King of the Andals and the First Men, Lord of the Seven Kingdoms and Protector of the Realm, I charge you to bring the king's justice to the false knight Gregor Clegane and all those who shared in his crimes. I denounce "
+12,"At Hoster Tully's funeral, who shot the burning arrow that hit its mark?",Brynden Tully,Edmure Tully.,0.0,0.5,0.33609692727625756,130,"[S3.0E3.0] We are trying, my lord. Try harder. What do we have, then? Robb Stark and most of his bannermen are in Riverrun for the funeral of his grandfather Lord Hoster Tully. In Stark's absence, Roose Bolton holds Harrenhal,
+[S3.0E3.0] Robb Stark and most of his bannermen are in Riverrun for the f"
+13,"""I always hated crossbows. Take too long to load!""",Yoren,"The statement ""I always hated crossbows. Take too long to load!"" is made in two instances in Season 2, Episode 3 of Game of Thrones. The speaker expresses a clear disdain for crossbows, specifically citing their loading time as a reason for this dislike. There are no contradictions in the evidence regarding this sentiment.",0.0,0.0,0.0,104,"[S2.0E3.0] So be it. I always hated crossbows. Take too long to load. Boy, come here. Boy! - Sweet boy, help us. - Come back here! Help us, boy! A man can fight! Free us!
+[S2.0E3.0] This is your last chance. In the name of King Joffrey, drop your weapons. I don't think I will. So be it. I always hat"
+14,"In season 2, who does Tyrion tell Varys he is planning on marrying to Princess Myrcella?",Theon Greyjoy,Robin Arryn,0.0,0.0,0.0,130,"[SnanEnan] 
+==== Season 1 and 2 ====
+Myrcella's storyline in the first two seasons follows the books.  Myrcellla makes her debut, looking ""like a Disney Princess"" as she arrives with the Lanisters at Winterfell in the series premiere. She is later seen along with her brother Tommen at Joffrey's name"
+15,How many fingertips did Stannis Baratheon chop off of Davos' hand(s)?,Four,Stannis Baratheon chopped off the first joint from each of four fingers on Davos Seaworth's right hand as punishment for his years of smuggling. This means that a total of four fingertips were removed. Davos kept these severed fingertips in a pouch around his neck as a lucky charm.,0.0,0.0392156862745098,0.18367241242171362,104,"[SnanEnan] 
+===Background===
+Davos is a man of low birth, born in Flea Bottom of King's Landing to the life of a poor commoner. In his youth, he became one of the most infamous smugglers of the Seven Kingdoms, often piloting his black-sailed ship into harbors in the dead of night, and navigated trea"
+16,Who is king of Westeros when the the series begins?,Robert Baratheon,Robert Baratheon,1.0,1.0,1.0000000000000002,104,"[SnanEnan] ''Game of Thrones'' is an American fantasy drama television series created by David Benioff and D. B. Weiss. The series is based on George R. R. Martin's series of fantasy novels, ''A Song of Ice and Fire''. The series takes place on the fictional continents of Westeros and Essos, and chr"
+17,"What is the name of the continent on which most of the action of ""Game of Thrones"" takes place?",Westeros,Westeros,1.0,1.0,1.0,44,"[SnanEnan] 
+===Setting===
+''Game of Thrones'' is roughly based on the storylines of ''A Song of Ice and Fire'', set in the fictional Seven Kingdoms of Westeros and the continent of Essos. The series chronicles the violent dynastic struggles among the realm's noble families for the Iron Throne, while"
+18,What is one of Sam's nicknames?,Lady Piggy,Sam.,0.0,0.0,0.0,130,"[SnanEnan] '''Samwell Tarly''', or simply '''Sam''', is a fictional character in the ''A Song of Ice and Fire'' series of fantasy novels by American author George R. R. Martin, and its television adaptation, ''Game of Thrones''.
+Introduced in 1996's ''A Game of Thrones'', Samwell is the eldest son o"
+19,"Daenerys finds great happiness with her ""sun and stars"" Khal Drogo, but who destroys both the husband and the unborn son?",Mirri Maz Duur the witch,Mirri Maz Duur.,0.0,0.7499999999999999,0.6569729210330907,114,"[SnanEnan] 
+===''A Game of Thrones''===
+In ''A Game of Thrones'' (1996), Daenerys is sold off by her brother Viserys and Illyrio Mopatis to marry Khal Drogo, a Dothraki warlord, in exchange for an army for Viserys. At that time, Daenerys befriends Jorah Mormont, an exiled Westerosi knight, and is gi"
+20,"In a flashback scene, we discover the true patronage of Jon Snow's parents. All through the series, we are led to believe Ned Stark is Jon's dad, and Jon is his bastard son. But this is not true - who is Jon's real father?",Rhaegar Targaryen,Rhaegar Targaryen.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+===Jon Snow===
+'''Jon Snow''' portrayed by Kit Harington. Kit Harington Jon Snow of House Stark and the Night's Watch is the secret son of Rhaegar Targaryen and Lyanna Stark, though raised as the bastard son of Lyanna's brother, Ned Stark. In the first season, Jon joins the Night's Watch"
+21,What is Olenna's relationship to Mace Tyrell?,mother,Mother and son.,0.0,0.5,0.44943641652398214,130,"[SnanEnan] 
+==Character profile==
+Olenna Tyrell, also known as the Queen of Thorns, is a former Redwyne and the mother of Mace Tyrell. She is described as a wizened and cunning old woman with a wicked wit and a sharp tongue, and is known for openly stating her opinion.
+Olenna is not a point of view "
+22,Which name is given to the bastards of The Westerlands?,Hill,Hill,1.0,1.0,1.0,130,"[SnanEnan] 
+===The Westerlands===
+The Westerlands are the Westerosi lands to the west of the Riverlands and north of the Reach. They are ruled by House Lannister of Casterly Rock, formerly Kings of the Rock. People of this region are often called ""Westermen."" Lannisport, lying hard by Casterly Rock,"
+23,Which religion does the Brotherhood Without Banners preach?,"R'hllor, the Lord of Light",The Lord of Light.,0.0,0.8,0.8181802073667197,130,"[S3.0E4.0] No matter whose cloak you wear, Lannister, Stark, Baratheon, you prey on the weak, the Brotherhood Without Banners will hunt you down. You found god? Is that it? Aye. I've been reborn in the light of the one true god.
+[SnanEnan] 
+==Brotherhood Without Banners==
+The Brotherhood Without Ban"
+24,What nasty creature felled a drunken King Robert?,Boar,A boar.,0.0,0.6666666666666666,1.0,130,"[S1.0E8.0] - That she might save her children. - Ah, the children. It's always the innocents who suffer. It wasn't the wine that killed Robert, nor the boar. The wine slowed him down and the boar ripped him open, but it was your mercy that killed the king. I trust you know you're a dead man, Lord Ed"
+25,Which tongue is commonly used by the Priests or Priestesses of R'hllor?,High Valyrian,High Valyrian,1.0,1.0,1.0000000000000002,128,"[S3.0E6.0] Valar Morghulis. Valar Dohaeris. I don't see many priestesses of R'hllor in the Riverlands. You are Thoros of Myr. The High Priest gave you a mission. Turn King Robert away from his idols and towards the Lord of Light.
+[S3.0E6.0] We come as friends. Begging your pardon, m'lady, but we'll "
+26,"Though Dragonstone was the seat of the Targaryens in former times, which self-proclaimed king of Westeros can we find there at a certain moment of the show?",Stannis Baratheon,Stannis Baratheon,1.0,1.0,1.0000000000000002,104,"[SnanEnan] 
+====Dragonstone====
+Dragonstone was once the westernmost outpost of the ancient Freehold of Valyria. A century before the Doom, the Targaryen family moved to Dragonstone. When the Doom came upon Valyria, House Targaryen survived along with the last of the Valyrian dragons. Another centur"
+27,"At the end of his training, what must an Unsullied kill to prove he has no mercy or weakness?",A newborn slave child,A newborn.,0.0,0.6666666666666666,0.44943641652398214,130,"[S3.0E1.0] an Unsullied must go to the slave marts with a silver mark, find a newborn and kill it before its mother's eyes. This way, my master says, we make certain there is no weakness left in them. You take a babe from its mother's arms, kill it as she watches, and pay for her pain with a silver "
+28,Who was the liege lord of the Freys before the War of the Five Kings?,Hoster Tully,House Tully.,0.0,0.5,0.33609692727625756,130,"[SnanEnan] 
+=== Wyman Manderly ===
+Wyman Manderly is the Lord of White Harbor, the only city in the North, and the wealthiest of the Stark vassals. He is an enormously fat man, with two sons, Ser Wylis and Ser Wendel Manderly. During the War of the Five Kings the Manderlys and Boltons begin a privat"
+29,"""Say it. Say her name. Say it!""",Oberyn Martell,Elia Martell.,0.0,0.5,0.33609692727625756,130,"[S4.0E8.0] Say her name. Say it! Elia Martell. I killed her children, then I raped her. Then I smashed her head in like this!
+[S4.0E8.0] Say her name! You raped her! You murdered her! You killed her children! Say her name. Say it! Elia Martell.
+[S4.0E8.0] Say it. Say her name. Elia Martell. You rape"
+30,What is the sigil of the House Clegane?,Three dogs,A dog.,0.0,0.0,0.0,24,"[S1.0E6.0] Fish. The sigil of House Tully. Isn't that your wife's House - Tully - my Lord Hand? These men, were they flying a sigil? - A banner? - None, your... Hand. The one who was leading them... Taller by a foot than any man I've ever met,
+[S1.0E1.0] One for each of the Stark children. The direw"
+31,What was the name of the person who chopped off Jaime's right hand?,Locke,Vargo Hoat.,0.0,0.0,0.0,130,"[SnanEnan] 
+=== Jaime Lannister ===
+Jaime Lannister is the twin brother of Cersei and the first son of Tywin Lannister. He serves as the third-person narrator of seventeen chapters throughout ''A Storm of Swords'', ''A Feast for Crows'', and ''A Dance with Dragons''. He was widely considered one of "
+32,What noble house is Catelyn Stark from?,House Tully,House Tully,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+===Catelyn Stark===
+'''Catelyn Stark''' (seasons 1–3) portrayed by Michelle Fairley. Catelyn Stark of House Stark and House Tully (née Tully), Lady of Winterfell, is the wife of Lord Eddard Stark. Born to the Lord and Lady of the Riverlands, she is the elder sister of Lysa Arryn, Lady of"
+33,"At the end of season 2, Joffrey Baratheon sits on the Iron Throne, but which Baratheon is actually the rightful king?",Stannis Baratheon,Stannis Baratheon.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+===Joffrey Baratheon===
+'''Joffrey Baratheon''' (seasons 1–4) portrayed by Jack Gleeson. Joffrey Baratheon of House Baratheon is the Crown Prince of the Seven Kingdoms. He is the eldest of Cersei Lannister's children and heir to the Iron Throne. Vicious and cruel, he has a short temper a"
+34,Where did Sam get the thimble that he gave to Gilly?,His mother,Sam got the thimble from Craster's Keep.,0.0,0.0,0.0,32,"[SnanEnan] 
+====Season 6====
+As women are banned from the Citadel, Sam intends to leave Gilly and Little Sam at the Tarly seat, Horn Hill, although he warns Gilly to hide her Wildling heritage due to his father's bigotry towards the Wildlings. At dinner with Sam's family, Randyll insults Sam's lack "
+35,"Khaleesi Daenerys is directed to go live among the widows of Khal warlords, but instead she does what to the Dothraki warlords who will not serve a woman?",Sets fire to them,She burns them alive.,0.0,0.25,0.14438355527738675,130,"[SnanEnan] 
+====Season 1====
+Daenerys Targaryen is introduced as the exiled princess of the Targaryen dynasty. She and her brother Viserys were smuggled to Essos during the end of Robert's Rebellion. For most of her life, she has been under the care of Viserys, whom she fears, as he is abusive to he"
+36,"Bran Stark, now the three-eyed raven, took a perilous quest to go north and find the previous three-eyed raven. What lovable but simple man, who could speak one single word, died for Bran while they were escaping from wights?",Hodor,Hodor,1.0,1.0,1.0,130,"[SnanEnan] 
+===Beyond the Wall===
+Bran and the Three-eyed Raven observe a vision of the Children of the Forest creating the Night King by impaling one of the First Men with a dragonglass dagger. Bran subsequently confronts Leaf about creating the White Walkers. She explains that they were at war wit"
+37,"Why could Jon leave the Night's Watch, since his vows were for life?",He died,"Jon Snow's ability to leave the Night's Watch is rooted in the complexities of his situation and the events that transpired during his time there. Initially, Jon struggles with his vows of celibacy and loyalty while infiltrating the wildlings, ultimately deserting them to warn the Night's Watch of an impending attack. Although he is arrested for desertion upon his return, he convinces the judges of his loyalty and is later elected as Lord Commander. His actions, including allowing the wildlings to pass through the Wall, create significant controversy within the Night's Watch, leading to accusations that he is undermining their mission. Ultimately, Jon's leadership and decisions reflect a nuanced interpretation of his vows, suggesting that his commitment to the Night's Watch can coexist with his choices in dire circumstances.",0.0,0.014598540145985401,0.061600104329220695,90,"[SnanEnan] 
+===''A Storm of Swords''===
+As ''A Storm of Swords'' (2000) begins, Jon has gained the trust of the wildlings by killing Qhorin, and marches with their host. He learns that Mance intends to breach the Wall and march south to escape the Others, crushing the Night's Watch if necessary. Jon"
+38,Which name is given to the inhabitants of The Neck?,Crannogmen,Crannogmen,1.0,1.0,1.0,130,"[SnanEnan] 
+===The North ===
+The North consists of the northern half of the Seven Kingdoms and is ruled by House Stark from their castle at Winterfell. The North is sparsely populated, but it is nearly as big as the other six kingdoms combined. Martin compared the North to Scotland. The climate is c"
+39,What does The Warrior represent in the Faith of the Seven?,Strength and courage on the battlefield,Courage.,0.0,0.2857142857142857,0.3032160644503863,130,"[S5.0E3.0] Asthe High Septon pf the Faith of the Seven, I give voice to the will of the gods and am their foremost servant in this world. An insult to me is an insult to the gods. An assault on my person is an assault on our very religion.
+[S6.0E10.0] I humble myself before the Seven and accept what"
+40,"On the orders of King Joffrey, Ilyn Payne beheads Ned Stark with which ancient sword?",Ice,Ice,1.0,1.0,1.0,104,"[SnanEnan] 
+===In King's Landing===
+Cersei accuses Ned of kidnapping Tyrion, and Robert tells Ned he cannot rule if the Lannisters and Starks are at war, appointing Ned regent while Robert leaves on a hunting trip.
+Arya continues her sword lessons with Syrio Forel, while her sister Sansa accepts an "
+41,What is the motto of House Greyjoy?,We Do Not Sow,We Do Not Sow,1.0,1.0,1.0,132,"[SnanEnan] 
+== House Greyjoy  ==
+House Greyjoy is one of the Great Houses of the Seven Kingdoms and is the principal noble house on the Iron Islands, home to the Ironborn. Its seat is on Pyke. Its coat of arms displays a golden kraken on a black field, and its words are ''We Do Not Sow''. Bastards b"
+42,Which sword was wielded by Visenya Targaryen?,Dark Sister,Dark Sister,1.0,1.0,1.0000000000000002,130,"[S2.0E7.0] Visenya rode Vhagar. I'm sure I knew that when I was a boy. Visenya Targaryen was a great warrior. She had a Valyrian steel sword she called Dark Sister. Hmm. She's a heroine of yours, I take it?
+[S2.0E7.0] You remind me of my daughter. Where did you learn all this stuff about Visenya and"
+43,Who was the Lightning Lord?,Beric Dondarrion,Beric Dondarrion.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+=== Beric Dondarrion ===
+Beric Dondarrion is a gallant knight with great fighting skill. In ''A Game of Thrones'', Eddard Stark sends him to arrest Gregor Clegane and bring peace to the Riverlands. He is ambushed and killed by Lannister forces. Thoros of Myr accidentally revives him with"
+44,Who attempts to kill Tyrion on the battlefield in the Battle of Blackwater Bay?,Ser Mandon Moore,Ser Meryn Trant,0.0,0.3333333333333333,0.20199309249791836,130,"[S4.0E5.0] I killed a man. Who? A Kingsguard. He tried to kill Lord Tyrion at the Blackwater. How did you kill a Kingsguard? I pushed a spear through the back of his head.
+[S4.0E5.0] He tried to kill Lord Tyrion at the Blackwater. How did you kill a Kingsguard? I pushed a spear through the back of h"
+45,Who is in the tent when Renly Baratheon is killed by the mysterious shadow?,Catelyn Stark,Catelyn Stark and Brienne of Tarth.,0.0,0.5,0.4494364165239822,104,"[S5.0E10.0] I was there when he was murdered by a shadow with your face. <i>You murdered him</i> <i>with blood magic?</i> I did. In the name of Renly of House Baratheon, First of His Name, rightful King of the Andals and the First Men,
+[SnanEnan] 
+====Season 2====
+Brienne is first introduced when sh"
+46,How many kings were there in The Seven Kingdoms at the end of season 2?,Four,"At the end of Season 2 of *Game of Thrones*, there were four claimants to the title of king in the Seven Kingdoms. Renly Baratheon declared himself King of the Seven Kingdoms and garnered support from various houses, while his brother Stannis Baratheon also claimed the throne, believing he had a better claim. Additionally, Joffrey Baratheon was recognized as king in King's Landing, and Robb Stark was declared King in the North. Thus, the evidence indicates that there were four kings, each with their own claim to the throne amidst the ongoing civil war.",0.0,0.020833333333333332,0.09262558126149502,110,"[SnanEnan] 
+====Season 2====
+Renly declares himself King of the Seven Kingdoms during Season 2 and wins the support of the Baratheon bannermen and the support of other houses, despite Stannis' better claim. He also seals an alliance with the powerful House Tyrell and its bannermen (including Randyll"
+47,Who is the true heir to the iron throne after Robert's death?,Stannis Baratheon,Stannis Baratheon.,1.0,1.0,1.0000000000000002,114,"[SnanEnan] 
+==== Season 2 ====
+Stannis' personal banner in the TV series.
+Stannis falls under the influence of Melisandre, a priestess of R'hllor who believes Stannis is the reincarnation of a legendary hero from her religion. After Robert's death, Stannis claims himself the true heir to the Iron Th"
+48,"In 2011, which actor who plays Tyrion Lannister, won the Golden Globe award for Best Performance by an Actor in a Supporting Role in a Series?",Peter Dinklage,Peter Dinklage,1.0,1.0,1.0000000000000002,24,"[SnanEnan] 
+===Recognition and awards===
+Peter Dinklage is the series's most successful cast member in terms of awards, having won 7 awards and received 37 additional nominations
+Dinklage's performance was praised; ''The Boston Globe'' called his Tyrion one of the show's ""highlights"", adding that Di"
+49,Under what religion was Sam named as a child?,Faith of the Seven,The Faith of the Seven.,0.0,0.888888888888889,0.9449111825230683,24,"[SnanEnan] 
+=== Samwell Tarly ===
+Samwell Tarly, called 'Sam', is the elder son of Lord Randyll Tarly of Horn Hill. Ten chapters throughout ''A Storm of Swords'' and ''A Feast for Crows'' are told from his point of view. In spite of his self-professed cowardice, Sam is highly intelligent, resourcefu"
+50,"At the slave city of Astapor Daenerys uses clever strategy to outwit the vulgar slavedriver Kraznys mo Nakloz, bargaining over which creature?",Her dragon,Drogon.,0.0,0.0,0.0,130,"[SnanEnan] 
+====Season 3====
+Daenerys travels to Astapor, a city in Slaver's Bay. As she arrives, the warlocks of Qarth attempt to assassinate her, but are thwarted by Ser Barristan Selmy, who was Kingsguard to Aerys Targaryen; Daenerys accepts him into her service. Daenerys negotiates with Astapori"
+51,"Sam, who is the arguably the weakest, slowest, and most out-of-shape member of the Night's Watch, somehow manages to escape a mutiny at Craster's Keep. While escaping, he rescues a daughter of Craster. What is her name?",Gilly,Gilly,1.0,1.0,1.0,130,"[SnanEnan] 
+===At the Wall===
+The Night's Watch receives Samwell Tarly, a fat, fearful, and clumsy recruit who becomes an easy target for Ser Thorne. Sam explains to Jon that his father forced him to join and forsake his inheritance because he considered Sam unworthy. Jon defends Sam from their fell"
+52,Who did Jon execute after his first general meeting as Lord Commander with the men of the Night's Watch?,Janos Slynt,Janos Slynt.,1.0,1.0,1.0000000000000002,114,"[SnanEnan] 
+====Season 4====
+In ""Two Swords"", Alliser Thorne and Janos Slynt call for Jon's execution for defecting to the wildlings, but Maester Aemon is convinced of Jon's loyalty to the Watch and sets him free. In ""First of His Name"", Jon leads an expedition to Craster's Keep, where some men of t"
+53,The destruction of the Great Sept of Baelor caused many casualties. Which two characters died during the explosion?,Margaery Tyrell and Lancel Lannister,Margaery Tyrell and Loras Tyrell.,0.0,0.6,0.5372450751597533,104,"[S7.0E3.0] The destruction of the Sept of Baelor was a tragic accident. Indeed, but sometimes tragedies are necessary to restore order and rational leadership. The Iron Bank wants its gold back. Your father never minced words either. But, yes, your debts are considerable.
+[S7.0E3.0] The Iron Bank ap"
+54,Who believes in the Old Gods of the Forest?,Eddard Stark and Jon Snow,The Starks.,0.0,0.0,0.0,130,"[S5.0E6.0] Who comes before the old gods this night? Sansa of the House Stark comes here to be wed. A woman grown, trueborn and noble. She comes to beg the blessings of the gods. Who comes to claim her?
+[S1.0E8.0] You hear them, boy? The old gods are answering you. - What are you doing here? - They'"
+55,"Sansa Stark and Tyrion Lannister were suspected of poisoning King Joffrey. Who, however, really did the little monster in?",Olenna Tyrell,Lady Olenna Tyrell and Petyr Baelish.,0.0,0.5,0.4494364165239822,130,"[SnanEnan] 
+==== ''A Storm of Swords'' ====
+Joffrey sets aside his earlier betrothal to Sansa Stark in favor of Margaery Tyrell, cementing an alliance between the Lannisters and House Tyrell. At Tyrion and Sansa's wedding, he humiliates his uncle and is outraged when his uncle threatens him after he"
+56,Which houses have symbols in their sigils related to the sea?,Manderly and Upcliff,"House Greyjoy, House Tully, House Velaryon.",0.0,0.0,0.0,104,"[S4.0E1.0] Oh. Ah, here we are. Can you read the sigils? Yellow balls? Wild lemons on a purple field, House Dalt of Lemonwood. A vulture grasping a baby in its talons, House of Blackmont.
+[S4.0E5.0] when she crosses the Narrow Sea. The old houses will flock to whichever side they think will win, as "
+57,What is the name of the gate that leads to The Eyrie?,The Bloody Gate,Bloody Gate,0.0,0.8,0.7092972666062739,130,"[S4.0E5.0] If you want to get to the Eyrie, you need to go through the Bloody Gate. It doesn't matter how large your army is, if you attack this gate, you do it on this road, three men abreast, and get slaughtered like goats. The first Lords of the Vale didn't have much,
+[S4.0E5.0] Ones about rich g"
+58,What distinct feature does Brienne of Tarth recall about the entity that killed Renly Baratheon?,It had Stannis Baratheon's face,A shadow with the face of Stannis Baratheon.,0.0,0.42857142857142855,0.3446421410380548,130,"[SnanEnan] 
+====''A Feast for Crows''====
+While questing to find Sansa Stark, Brienne of Tarth encounters Gendry working as a smith at the Inn at the Crossroads along with a group of orphans, and is struck by his resemblance to the late Renly Baratheon. At the inn, Brienne encounters and duels with "
+59,What was the name of the boy Arya was playing with (and who later died) when Nymeria attacked Joffrey?,Mycah,Mycah,1.0,1.0,1.0,114,"[SnanEnan] 
+===''A Game of Thrones''===
+Sansa Stark begins the novel by being betrothed to Crown Prince Joffrey Baratheon, believing Joffrey to be a gallant prince. While Joffrey and Sansa are walking through the woods, Joffrey notices Arya sparring with the butcher's boy, Mycah. A fight breaks out "
+60,"""Together we can end this war in a fortnight!""",Renly Baratheon,"The phrase ""Together we can end this war in a fortnight!"" is mentioned in two instances from Season 2, Episode 5, where it is expressed as a hope for an alliance that could bring a swift resolution to the conflict. The context suggests that the speaker believes that collaboration could lead to a quick end to the war. However, there is no specific evidence provided that confirms this outcome would indeed happen within that timeframe. Additionally, other evidence indicates that the war is ongoing and complex, with various factions involved, which may contradict the notion of a swift resolution.",0.0,0.0,0.0,89,"[S2.0E5.0] I believe we are natural allies. I hope he feels the same. Together we could end this war in a fortnight. No! No. Follow me!
+[S2.0E5.0] You heard him out there. I'd have better luck debating the wind. Please bring my terms to your son. I believe we are natural allies. I hope he feels the "
+61,"How many times did Thoros of Myr resurrect Beric Dondarrion from death, up until the end of season 3?",6,"Thoros of Myr resurrected Beric Dondarrion six times by the end of season 3. This information is confirmed by Melisandre, who expresses astonishment at the number of times Beric has been brought back to life by Thoros. Each resurrection causes Beric to lose part of his memories related to his previous life.",0.0,0.0,0.0,104,"[SnanEnan] 
+=== Beric Dondarrion ===
+Beric Dondarrion is a gallant knight with great fighting skill. In ''A Game of Thrones'', Eddard Stark sends him to arrest Gregor Clegane and bring peace to the Riverlands. He is ambushed and killed by Lannister forces. Thoros of Myr accidentally revives him with"
+62,What is that name of Robb Stark's wife?,Talisa,Jeyne Westerling.,0.0,0.0,0.0,130,"[SnanEnan] 
+=== Catelyn Stark ===
+Catelyn Stark is the Lady of Winterfell, wife of Lord Eddard Stark, and mother to his children Robb, Sansa, Arya, Bran, and Rickon. She is the daughter of Lord Hoster Tully of Riverrun; niece to Ser Brynden Tully (also known as the legendary ""Blackfish"") and sister "
+63,"Aside from being Master of Coin and a member of the King's Small Council, the character of Peter ""Littlefinger"" Baelish from King's Landing also runs what kind of business?",brothel,A brothel.,0.0,0.6666666666666666,1.0,130,"[SnanEnan] 
+=== Petyr Baelish  ===
+Lord Petyr Baelish, called Littlefinger, held power as the Master of Coin, the Treasurer of the Seven Kingdoms. Petyr names himself Lord Protector of the Vale following the death of his wife, Lysa Arryn.
+In the HBO television adaptation, he is portrayed by Aidan Gi"
+64,"After the Battle of the Fist of the First Men, as the survivors are trying to make it back to the Wall, Sam collapses from exhaustion. Which of his brothers wishes to leave him because he is slowing them down?",Rast,Rast,1.0,1.0,1.0,89,"[SnanEnan] 
+===Beyond the Wall===
+Mance Rayder continues to be distrustful of Jon, and speaks with Orell, a 'warg' capable of seeing through the eyes of animals, who tells him that he has seen the aftermath of the battle at the Fist of the First Men.
+Marching to the Wall, Sam falls from exhaustion, "
+65,"Yara Greyjoy is the only daughter of Balon Greyjoy and Theon's older sister. When Theon is later captured by Ramsay Bolton, Yara launches a rescue mission to free Theon. Where was Theon being held?",Dreadfort,The Dreadfort.,0.0,0.6666666666666666,0.5797386715376658,104,"[SnanEnan] 
+=== Asha Greyjoy  ===
+Asha Greyjoy is Balon Greyjoy's only daughter and oldest living child. She serves as the third-person narrator for four chapters throughout ''A Feast for Crows'' and ''A Dance with Dragons''. Asha was raised as Balon's heir despite a custom forbidding female rule, a"
+66,What is Meera's relationship to Howland Reed?,daughter,Father and daughter.,0.0,0.5,0.44943641652398214,130,"[S7.0E1.0] I'm Meera Reed, daughter of Howland Reed. This is Brandon Stark, son of Ned Stark. How do I know that's true? You were at the Fist of the First Men. You were at Hardhome.
+[SnanEnan] 
+=== Jojen and Meera Reed  ===
+Jojen and Meera are the children of Howland Reed, the Lord of Greywater Watc"
+67,Where did Jon take his Night's Watch vows?,Beside a weirwood tree north of the Wall,At the Wall.,0.0,0.36363636363636365,0.2910691023819055,130,"[SnanEnan] 
+===Beyond the Wall===
+Jon lies to Orell and Tormund that a thousand men are guarding the Wall. Ygritte steals Jon's sword and he chases her into a cave, where she convinces him to break his Night's Watch vows and make love with her.
+[SnanEnan] 
+===''A Storm of Swords''===
+As ''A Storm of"
+68,What are the names of Elia Martell's children?,Rhaenys and Aegon,Rhaenys and Aegon.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+=== Elia Martell ===
+Elia Martell was the younger sister of Prince Doran Martell of Dorne and was very close to her younger brother Oberyn. She married Prince Rhaegar Targaryen, and bore him two children: a daughter Rhaenys and a son Aegon. Fifteen years before the events of the series, "
+69,Which religion does the Faith Militant preach?,Faith of the Seven,The Faith of the Seven.,0.0,0.888888888888889,0.9449111825230683,130,"[S5.0E4.0] the Faith Militant dispensed the justice of the Seven. Well, the Faith Militant was disarmed more than two centuries ago. If I explain their holy purpose to my son the king, I have no doubt he will sign a decree arming the believers you felt worthy. An army that defends the bodies and sou"
+70,"Each night before sleep Arya Stark speaks the names of those she wishes dead. Who wasn't on little Arya's original ""hit list?""",Walder Frey,Meryn Trant.,0.0,0.0,0.0,130,"[SnanEnan] 
+===In Braavos===
+Arya trains using sticks with the Waif in the House of Black and White. In between sessions, the Waif questions Arya about who she used to be. Arya reveals all of her family members and reveals that she had taken the Hound off her kill list before she left him to die. Th"
+71,Which houses have animals in their sigils?,"Stark, Lydden, Hornwood and Blackmont","Stark, Lannister, Baratheon, Tyrell, Arryn, Greyjoy, Martell, Tully, Targaryen.",0.0,0.14285714285714285,0.08176804146599938,53,"[S6.0E5.0] the most powerful houses in the North are the Umbers, the Karstarks, and the Manderlys. The Umbers and the Karstarks have already declared for the Boltons, so we're not doing so well there.
+[S6.0E5.0] and even the bravest of them don't want to see their wives and children skinned for a lo"
+72,Which chemical was used during the Battle of the Blackwater to destroy Stannis Baratheon's fleet?,Wildfire,Wildfire,1.0,1.0,1.0,130,"[SnanEnan] 
+====Season 2====
+Bronn's service to Tyrion earns him a position as Commander of the City Watch after his predecessor is revealed to be accepting bribes. When Stannis Baratheon attacks the city by sailing up the Blackwater Bay, he shoots a fire arrow to a ship containing wild fire which d"
+73,In which Westeros constituency can we find The Dreadfort?,The North,The North,1.0,1.0,1.0000000000000002,130,"[S3.0E10.0] I'm going to march on the Dreadfort. I'm going to find my little brother, and I'm going to bring him home. What is it? Dragonglass. We found them at the Fist.
+[SnanEnan] 
+===The Westerlands===
+The Westerlands are the Westerosi lands to the west of the Riverlands and north of the Reach. T"
+74,"The Hound says, ""Killing is the sweetest thing there is."" To whom does he say this, and why?",To Sansa in an attempt to scare her out of her fantasy world,He says this to Sansa Stark.,0.0,0.21052631578947367,0.17795222025409319,81,"[S2.0E7.0] He lied. Killing is the sweetest thing there is. Why are you always so hateful? You'll be glad of the hateful things I do someday when you're queen and I'm all that stands between you and your beloved king. I've demanded a meeting of the Thirteen. One of them did this or knows who did.
+[S"
+75,Who is Myrcella betrothed to in season 2?,Trystane Martell,Trystane Martell.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+===House Baratheon===
+* '''Myrcella Baratheon''' (seasons 1–2, 5–6) portrayed by Aimee Richardson on season 1 and 2, and by Nell Tiger Free on seasons 5 and 6. Aimee Richardson The Royal Princess, Myrcella is the younger sister of Prince Joffrey and only daughter of Cersei Lannister. She"
+76,"""We are the watchers on the wall!""",Qhorin Halfhand,"The phrase ""We are the watchers on the wall"" is a significant line associated with the Night's Watch in the series ""Game of Thrones."" It emphasizes their role in guarding the Wall and protecting the realms of men. This line appears in multiple contexts, highlighting the Night's Watch's commitment to their duty, especially in the face of threats like the Wildling assault. The phrase underscores the unity and responsibility of the members of the Night's Watch, as they pledge their lives to this cause.",0.0,0.0,0.0,96,"[SnanEnan] ""'''The Watchers on the Wall'''"" is the ninth and penultimate episode of the fourth season of HBO's fantasy television series ''Game of Thrones'', and the 39th overall. The episode was written by series co-creators David Benioff and D. B. Weiss, and directed by Neil Marshall. It aired on "
+77,"What is Daenerys' response to Kraznys mo Nakloz after he tells Missandei to tell Daenerys that her ""beast won't come"" to him after the exchange of Drogon for the army of Unsullied?","""A dragon is not a slave""","""Dracarys.""",0.0,0.0,0.0,130,"[SnanEnan] 
+=== Missandei ===
+Missandei is a slave interpreter for Kraznys mo Nakloz when Daenerys Targaryen comes to inspect the Unsullied in Astapor. After Daenerys strikes a bargain with the Good Masters of Astapor concerning payment for the Unsullied, Kraznys gives Missandei to Daenerys as an in"
+78,"When Melisandre says that 'There is power in a King's blood', who is she thinking of offering as sacrifice to the Red God?","Gendry, bastard son of Robert",Gendry.,0.0,0.33333333333333337,0.33517574332792605,114,"[S3.0E8.0] She says there's power in king's blood. She's going to kill him. Sacrifice him. Forgive me, Your Grace, I'm not a learned man, but is there a difference between kill and sacrifice? The boy is your nephew.
+[S3.0E8.0] Came back with a bastard boy. Robert's bastard boy. Why? She says there's"
+79,"To how many different Starks had Sandor Clegane, called The Hound, spoken in seasons 1-3?",Three,Two Starks.,0.0,0.0,0.0,130,"[SnanEnan] 
+===Sandor Clegane===
+'''Sandor Clegane''' (seasons 1–4, 6–8) portrayed by Rory McCann. Sandor Clegane, nicknamed ""the Hound"", for his savage nature, is the younger brother of Ser Gregor Clegane and a retainer to House Lannister. He is also Joffrey Baratheon's personal bodyguard. The righ"
+80,What is the name of Arya Stark's sword?,Needle,Needle,1.0,1.0,1.0,130,"[S5.0E3.0] For whatever you want. To be a Faceless Man. To be no one. <i>Whose sword is that?</i> It belongs to Arya Stark. Arya Stark's sword, Arya Stark's clothes, Arya Stark's stolen silver.
+[S5.0E3.0] It belongs to Arya Stark. Arya Stark's sword, Arya Stark's clothes, Arya Stark's stolen silver."
+81,"It's usually Sam's brains and not his bronze that gets him out of most situations. Because he knows so many things from staring at marks on paper, what does Gilly believe he must be?",Wizard,A maester.,0.0,0.0,0.0,132,"[SnanEnan] 
+=== Description ===
+According to George R. R. Martin, the character Samwell Tarly, is the most relatable to him. When asked why, Martin said in a 2014 interview: because Sam's ""the fat kid who likes to read books and doesn't like to go up a lot of stairs."" Just like Tarly, George R. R. M"
+82,"The Warlock of Qarth steals the dragons belonging to Daenerys, and chains them up in what tower of illusions?",House of the Undying,House of the Undying,1.0,1.0,1.0,130,"[SnanEnan] 
+===In Qarth===
+Pyat Pree's magic strands Jorah and Kovarro outside the House of the Undying while trapping Daenerys within. Encountering strange visions, she finds her dragons chained as Pyat Pree appears and binds her. Daenerys orders her dragons to breathe fire, killing Pyat Pree and f"
+83,"Jorah Mormont, Daenery's trusted advisor for most of the series, becomes afflicted with a deadly disease that was thought incurable. What is the name of this disease?",Greyscale,Greyscale,1.0,1.0,1.0,104,"[SnanEnan] 
+=== Jorah Mormont ===
+Ser Jorah Mormont is the exiled Lord of Bear Island in the North, which he inherited after his father Jeor Mormont joined the Night's Watch. His wife's lavish lifestyle led to debts, which led Jorah to engage in selling slaves. Escaping justice, he fled to Essos and"
+84,"During the Red Wedding, which Houses were allies against the Starks?","Frey, Bolton and Lannister",House Frey and House Bolton.,0.0,0.6666666666666665,0.4073526042885675,104,"[SnanEnan] 
+====The Twins====
+The Twins is the seat of House Frey, which has grown wealthy by charging a toll of all those who cross for the past six centuries. Because the Freys are both wealthy and numerous, theirs is one of the most powerful houses sworn to House Tully. The castle's strategic pos"
+85,"To whom Jon says ""If I fall, don't bring me back.""?",Melisandre,Melisandre,1.0,1.0,1.0,130,"[S6.0E9.0] Don't lose. If I do, if I fall... don't bring me back. I'll have to try. I'm ordering you not to bring me back. I am not your servant, Jon Snow.
+[S6.0E9.0] You weren't at the war council. I'm not a soldier. Any advice? Don't lose. If I do, if I fall... don't bring me back.
+[S6.0E9.0] I'll"
+86,What is the guest right?,"When a guest eats or drinks in the host's table and beneath his roof, neither the guest or the host can harm each other",A sacred custom that grants protection to guests under a host's roof.,0.0,0.2105263157894737,0.08869693147412193,104,"[S4.0E3.0] Guest right don't mean much any more. It means something to me. The gods will have their vengeance. Frey will burn in the seventh hell for what he did. Things were different when Hoster Tully ruled the Riverlands. We had good years and bad years, same as anyone, but we were safe.
+[S4.0E3."
+87,"The ""Red Wedding"" claimed the lives of many a Stark. Which member of that northern clan  DIDN'T die as a guest of Walder Frey?",Benjen Stark,Rickon Stark,0.0,0.5,0.33609692727625756,130,"[S4.0E3.0] The Red Wedding, they're calling it. Walder Frey committed sacrilege that day. He shared bread and salt with the Starks. He offered them guest right. Guest right don't mean much any more. It means something to me. The gods will have their vengeance.
+[S4.0E3.0] Really good. Did you fight a"
+88,In which cities did Daenerys stop by before taking up residence in Meereen after crossing the Red Waste?,"Qarth, Astapor and Yunkai",Astapor and Yunkai.,0.0,0.8571428571428571,0.7765145304745156,124,"[SnanEnan] 
+====Season 4====
+Daenerys marches on the last city in Slaver's Bay, Meereen, and seizes control of the city by instigating a slave revolt. She decides to execute 163 Meereenese masters as ""justice"" for 163 slave children crucified on the road to Meereen. After becoming aware that her cou"
+89,"On their way to Meereen, Jorah and Tyrion find the stone men near the ancient ruins of which place?",Valyria,Valyria,1.0,1.0,1.0,132,"[SnanEnan] 
+====Season 5====
+Jorah encounters Tyrion Lannister in Volantis and kidnaps him with the intention of delivering him to Daenerys. Sailing through the ruins of Valyria, the duo is assaulted by ""stone men"" – humans turned insane by the disease greyscale – and Jorah is infected in the strugg"
+90,"""You'll have to carry me.""",Lommy,"The phrase ""You'll have to carry me"" is mentioned in the context of a character who is unable to walk due to a leg injury, indicating that they require assistance to be moved. The dialogue suggests a sense of urgency and a demand for help, as the character insists on being carried. There is no additional context provided about who is speaking or the circumstances surrounding this request.",0.0,0.0,0.0,84,"[S2.0E3.0] No. You got to carry me. All right. ""Carry him,"" he says. We're looking for a bastard named Gendry. Give him up or I'll start taking eyeballs.
+[S2.0E3.0] Something wrong with your leg, boy? Look at it. Can you walk? No. You got to carry me. All right. ""Carry him,"" he says.
+[S5.0E10.0] How"
+91,What is the first thing Jon Snow says in the first episode in season 4?,"""Last time I saw him, he was in the courtyard at Winterfell"".","""Where are my clothes?""",0.0,0.0,0.0,130,"[SnanEnan] 
+===Jon Snow===
+'''Jon Snow''' portrayed by Kit Harington. Kit Harington Jon Snow of House Stark and the Night's Watch is the secret son of Rhaegar Targaryen and Lyanna Stark, though raised as the bastard son of Lyanna's brother, Ned Stark. In the first season, Jon joins the Night's Watch"
+92,"Bronn, sellsword under the command of Tyrion, was awarded for his service in the Blackwater Battle against Stannis' army. What was this reward?",He was anointed knight 'Ser Bronn',Ser Bronn of Blackwater was awarded knighthood.,0.0,0.4615384615384615,0.30412574187549346,130,"[SnanEnan] 
+====Season 2====
+Bronn's service to Tyrion earns him a position as Commander of the City Watch after his predecessor is revealed to be accepting bribes. When Stannis Baratheon attacks the city by sailing up the Blackwater Bay, he shoots a fire arrow to a ship containing wild fire which d"
+93,How many of the Stark direwolves were confirmed dead in the first three seasons?,Two,"In the first three seasons of *Game of Thrones*, three Stark direwolves are confirmed dead. Grey Wind, Robb Stark's direwolf, is shot dead during the Red Wedding. Lady, Sansa Stark's direwolf, is killed by Ned Stark on Cersei's orders. Additionally, Shaggydog, Rickon Stark's direwolf, is killed when his severed head is presented to Ramsay Bolton as proof of Rickon's identity. The fates of Nymeria and Summer are not confirmed as dead within these seasons.",0.0,0.0,0.0,110,"[SnanEnan] 
+====Direwolves====
+A number of characters retain wolf-like pets called '''direwolves'''. In the book series, they are described as being as large as ponies. Thought to have gone extinct, they appear at the start of the series as a den of six orphaned pups found by Jon Snow. They are then"
+94,What house has a sigil of a silver trout?,House Tully,House Tully,1.0,1.0,1.0000000000000002,130,"[S1.0E6.0] Fish. The sigil of House Tully. Isn't that your wife's House - Tully - my Lord Hand? These men, were they flying a sigil? - A banner? - None, your... Hand. The one who was leading them... Taller by a foot than any man I've ever met,
+[SnanEnan] 
+== House Tully  ==
+House Tully is one of the"
+95,By what name do the Seven Kingdoms refer to the Free Folk who live in north beyond the Wall?,wildlings,Wildlings,1.0,1.0,1.0,130,"[SnanEnan] 
+== Night's Watch and Free Folk  ==
+Coat of arms of the Night's Watch
+The Night's Watch is a sworn brotherhood of men who patrol the Wall. The individual members or ""Brothers of the Watch"" (called ""Crows"" by the Wildlings) reject land and titles, practice celibacy, cut ties to their famil"
+96,What is the name of the ancestral Valyrian steel sword belonging to House Tarly?,Heartsbane,Heartsbane,1.0,1.0,1.0,130,"[SnanEnan] 
+===At the Wall===
+Jeor Mormont gives Jon Snow his ancestral Valyrian steel sword Longclaw. Jon is upset he cannot join Robb against the Lannisters.
+Maester Aemon reveals to Jon that he is Aemon Targaryen, the Mad King Aerys's uncle and Daenerys Targaryen's great-uncle, and advises Jon th"
+97,"Daenerys frees a slave in Astapor who becomes a close friend and advisor. Who loves an Unsullied, but Daenerys will watch her beheaded?",Missandei,Missandei,1.0,1.0,1.0,130,"[SnanEnan] 
+=== Missandei ===
+Missandei is a slave interpreter for Kraznys mo Nakloz when Daenerys Targaryen comes to inspect the Unsullied in Astapor. After Daenerys strikes a bargain with the Good Masters of Astapor concerning payment for the Unsullied, Kraznys gives Missandei to Daenerys as an in"
+98,"Arya Stark, the youngest Stark girl, was given a blade by Jon Snow back in season 1. This blade has become Arya's most treasured possession. This blade often comes in handy as Arya becomes a deadly killer. What is the name of the sword?",Needle,Needle,1.0,1.0,1.0,130,"[SnanEnan] 
+====Season 1====
+Arya accompanies her father Ned and her sister Sansa to King's Landing. Before their departure, Arya's half-brother Jon Snow gifts Arya a sword which she dubs ""Needle"". On the Kingsroad, Arya is sparring with a butcher's boy, Mycah, when Sansa's betrothed Prince Joffrey "
+99,Which House has no remaining legitimate heirs at the time Cersei Lannister becomes Queen of Westeros?,Baratheon,House Baratheon,0.0,0.6666666666666666,0.5797386715376658,96,"[SnanEnan] 
+===Cersei Lannister===
+'''Cersei Lannister''' portrayed by Lena Headey as an adult and Nell Williams as a child. Cersei Lannister of House Lannister and House Baratheon, Queen of the Seven Kingdoms of Westeros, is the wife of King Robert Baratheon. Her father arranged the marriage when s"
+100,Jon orders Rickon's body to be buried where?,The crypt of House Stark,In the crypt of Winterfell.,0.0,0.6,0.43161341897075156,130,"[SnanEnan] 
+====Season 2====
+After Theon Greyjoy captures Winterfell, Osha helps Bran and his younger brother Rickon go into hiding. To cement his claim on Winterfell, Theon has two orphan boys killed and their bodies burned, and passes their charred bodies corpses off as Bran and Rickon. After Theo"
+101,Which brother of the Night's Watch brought an end to Ygritte and (temporarily) Jon Snow?,Olly,Olly.,1.0,1.0,1.0,130,"[SnanEnan] 
+===Ygritte===
+'''Ygritte''' (seasons 2–4) portrayed by Rose Leslie. A Wildling girl with red hair (""kissed by fire"", a sign of luck among the Wildlings) and a follower of Mance Rayder. In Season 2, she is captured in the Skirling Pass by Jon Snow and Qhorin Halfhand. She manages to escap"
+102,What is the motto of House Tyrell?,Growing Strong,Growing Strong,1.0,1.0,1.0000000000000002,96,"[SnanEnan] 
+== House Tyrell  ==
+House Tyrell is one of the Great Houses of the Seven Kingdoms and is the principal noble house in the Reach. Its seat is at Highgarden where they reside as the Wardens of the South. Its coat of arms displays a golden rose on a green field, and its words are ''Growing "
+103,What is the nickname given to Brynden Tully?,Blackfish,The Blackfish,0.0,0.6666666666666666,0.5797386715376658,104,"[SnanEnan] 
+=== Brynden Tully ===
+Personal coat of arms of Brynden Tully
+Ser Brynden Tully, called the Blackfish, is the younger brother of Hoster Tully and the uncle of Catelyn Stark, Lysa Arryn, and Edmure Tully. He constantly quarreled with his brother, usually over Brynden's refusal to marry. Du"
+104,Where can we find the Moon Door?,The Eyrie,The Eyrie.,1.0,1.0,1.0000000000000002,130,"[S4.0E7.0] and then we can bring them back here and, whoosh! Right through the Moon Door. I like the sound of that. Let's put a Moon Door in your Winterfell. All right. - It can go in here in this big tower. - Be careful.
+[S4.0E7.0] Let's put a Moon Door in your Winterfell. All right. - It can go in"
+105,"""I am your master! Kill her! Kill her!"" Kraznyz mo Nakloz is yelling at whom to kill Daenerys?",The Unsullied,The Unsullied.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+====Season 3====
+Daenerys travels to Astapor, a city in Slaver's Bay. As she arrives, the warlocks of Qarth attempt to assassinate her, but are thwarted by Ser Barristan Selmy, who was Kingsguard to Aerys Targaryen; Daenerys accepts him into her service. Daenerys negotiates with Astapori"
+106,What are the words of House Martell?,"""Unbowed, Unbent, Unbroken""","Unbowed, Unbent, Unbroken.",1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+== House Martell  ==
+House Martell is one of the Great Houses of the Seven Kingdoms and is the ruling house of the kingdom of Dorne. Its seat is the castle of Sunspear. Its coat of arms displays a gold spear piercing a red sun on an orange field, and its words are ''Unbowed, Unbent, Unbr"
+107,"""He'll stab us in the back first chance he gets.""",Orell,"The statement ""He'll stab us in the back first chance he gets"" is made in the context of distrust towards a character referred to as a ""crow,"" suggesting that he is perceived as a traitor or a threat. This sentiment is reinforced by the speaker's insistence that the character should be killed, indicating a belief that he is aligned with enemies. The phrase implies a strong conviction that this character will betray them if given the opportunity. There are no contradictions in the evidence regarding this assertion.",0.0,0.0,0.0,130,"[S3.0E9.0] And here's his crow wife guarding him. He'll stab us in the back first chance he gets. Kill him. He's one of them. No! Do you hear me? Ahh!
+[S3.0E9.0] Go on, boy. Go on! He's a crow. He'll always be a crow. And here's his crow wife guarding him. He'll stab us in the back first chance he g"
+108,What is the name of the man that Arya kills in season 4 after he tries to kill The Hound due to the bounty on The Hound's head?,Rorge,Polliver,0.0,0.0,0.0,130,"[SnanEnan] 
+====Season 4====
+Arya and the Hound encounter Polliver in a tavern; Arya reclaims Needle and uses it to kill Polliver to avenge Lommy. They also encounter Rorge and Biter, Jaqen's fellow prisoners, and Arya kills Rorge after recalling he had threatened to rape her. The Hound takes Arya t"
+109,Where was Catelyn Stark when she died?,The Twins,At the Red Wedding.,0.0,0.3333333333333333,0.22028815056182974,104,"[S4.0E4.0] You didn't mean it, then? You have no loyalty to Catelyn Stark? Catelyn Stark's dead. So if I told you to leave the capital right now and find Sansa, if I told you to find that murderous little bitch and bring me her head,
+[SnanEnan] '''Catelyn Stark''' (née '''Tully''') is a fictional ch"
+110,Who was Hand of the King before Eddard Stark?,Jon Arryn,Jon Arryn,1.0,1.0,1.0000000000000002,130,"[S1.0E8.0] In the place of the traitor Eddard Stark, it is the wish of His Grace that Tywin Lannister, Lord of Casterly Rock and Warden of the West, be appointed Hand of the King. Lastly, in these times of treason and turmoil,
+[SnanEnan] 
+=== Eddard Stark ===
+Eddard ""Ned"" Stark is the Lord of Winter"
+111,Who was the Archmaester responsible for Sam at the Citadel?,Ebrose,Archmaester Ebrose,0.0,0.6666666666666666,0.5797386715376658,96,"[SnanEnan] 
+===Casting===
+Jim Broadbent joins the series as Archmaester Ebrose
+""Dragonstone"" saw the introduction of Jim Broadbent as Archmaester Ebrose at the Citadel. His casting in the series was initially announced by HBO to ''Entertainment Weekly'' in August 2016, and at the time was only revea"
+112,"Daenerys and Jon Snow enjoyed a sweet courtship and shared goals, never mind fierce fighting together. But which name, learned late in the series, tears them apart?",Aegon,Aegon Targaryen.,0.0,0.6666666666666666,0.5797386715376658,130,"[SnanEnan] 
+===In the Narrow Sea===
+Tyrion witnesses Jon Snow entering Daenerys's cabin. Jon and Daenerys give in to their feelings for each other and have sex.
+[SnanEnan] 
+===At Winterfell===
+Daenerys Targaryen arrives at Winterfell alongside Jon Snow, Tyrion Lannister, Jorah Mormont, Varys and Mis"
+113,Who was Ros' regular customer at Winterfell?,Theon Greyjoy,Theon Greyjoy.,1.0,1.0,1.0000000000000002,130,"[S5.0E1.0] Your Grace. The bastard of Winterfell. You know who rules at Winterfell now? Roose Bolton. Mmm, the traitor who plunged a dagger in Robb Stark's heart. Don't you want to avenge him?
+[SnanEnan] 
+===Casting===
+Members of Sigur Rós appeared in the episode.
+The episode has the introduction of"
+114,"When Olenna visits Dorne and talks to Ellaria Sand, she intentionally forgets Obara's name. What does she call Obara?",Barbaro,"""Barbaro""",1.0,1.0,1.0,89,"[SnanEnan] 
+=== Ellaria Sand ===
+Ellaria Sand is the paramour of Prince Oberyn Martell, and the mother of the four youngest ""Sand Snakes"". She accompanies Oberyn to King's Landing when Oberyn takes the seat on the small council. After returning to Dorne, she is distraught when she hears Obara's stat"
+115,"If the Night's Watch is a brotherhood, Jon Snow is guilty of serial fratricide. Who amongst these black brothers was not slain by ""Lord Snow?""",Jeor Mormont,Benjen Stark,0.0,0.0,0.0,130,"[SnanEnan] 
+===Jon Snow===
+'''Jon Snow''' portrayed by Kit Harington. Kit Harington Jon Snow of House Stark and the Night's Watch is the secret son of Rhaegar Targaryen and Lyanna Stark, though raised as the bastard son of Lyanna's brother, Ned Stark. In the first season, Jon joins the Night's Watch"
+116,Which Houses have black as the main color of their sigil?,Harlaw and Stonetree,"House Greyjoy, House Blackwood, House Tully.",0.0,0.0,0.0,130,"[SnanEnan] 
+====Other Free Cities ====
+* '''Lorath''' is a port city on a group of northern islands. The character Jaqen H'ghar poses as a Lorathi in ''A Clash of Kings'', wearing long hair dyed red on one side and white on the other.
+* '''Lys''' sits astride a series of southern islands. The Lysene"
+117,Shae meets Tyrion for the first time in a Lannister army's camp. Where?,The Riverlands,In a tent at the Lannister army camp.,0.0,0.2,0.161713780662529,130,"[SnanEnan] 
+====''A Clash of Kings''====
+Varys is the first to learn that Tyrion Lannister has brought his mistress Shae with him to King's Landing, and tells Tyrion of a route that he can use to visit her. He forms an uneasy alliance with Tyrion to share the information gathered by his spy network."
+118,Daenerys crosses a desert in Essos on her way to Qarth. What is this desert called?,The Red Waste,Red Waste,0.0,0.8,0.7092972666062739,96,"[SnanEnan] 
+====Red Waste ====
+The Red Waste is a great desert-like area in the eastern part of Essos. Not much is known about it, since it was only briefly seen in ''A Clash of Kings'' when Daenerys Targaryen and her ''khalasar'' crossed it. The only known settlement in the region, Vaes Tolorro, is"
+119,How many Starks appeared in the first episode of the series?,8,"The evidence does not specify the exact number of Stark family members who appeared in the first episode, ""Winter Is Coming."" However, it does mention that the episode centers on the Stark family and introduces Eddard ""Ned"" Stark, who is the lord of the family. Given that Eddard Stark is a key character, it can be inferred that at least he appears in the episode, but the evidence does not clarify whether other Stark family members are present. Therefore, the information is incomplete regarding the total count of Starks in the first episode.",0.0,0.0,0.0,66,"[SnanEnan] ""'''Winter Is Coming'''"" is the series premiere episode of the HBO medieval fantasy television series ''Game of Thrones''. The first episode of the first season, it was written by the show creators David Benioff and D. B. Weiss, in a faithful adaptation of the first chapters of George R. "
+120,"""Kill me and be cursed. You are no king of mine!""",Rickard Karstark,"The phrase ""Kill me and be cursed. You are no king of mine!"" is spoken by Rickard Karstark, Lord of Karhold, as he faces execution. This statement reflects his defiance against Joffrey, asserting that he does not recognize Joffrey's authority as king. The context indicates that Karstark is willing to accept death rather than submit to Joffrey's rule.",0.0,0.06451612903225806,0.16924559214886428,104,"[S3.0E5.0] here, in sight of gods and men, I sentence you to die. Would you speak a final word? Kill me and be cursed. You are no king of mine. Joffrey. Cersei. Ilyn Payne.
+[S3.0E5.0] I don't want it to save me. I want it to haunt you to the end of your days. Kneel, my lord. Rickard Karstark, Lord o"
+121,What were Tywin Lannister's last words before Tyrion killed him?,"""You're no son of mine"".","""You'll never hurt me again.""",0.0,0.16666666666666666,0.09193998174078082,130,"[SnanEnan] 
+== Character description ==
+Tywin Lannister is Lord of Casterly Rock, Shield of Lannisport, and Warden of the West.
+When Lannister bannermen the Reynes and Tarbecks eventually revolted against the Lannisters' rule, Tywin personally led the Lannister army in exterminating the rebellious v"
+122,Which was the crime committed by Ser Jorah Mormot when living in Westeros? This crime was the reason while he had to exile to Essos.,Trading slaves,Selling poachers into slavery.,0.0,0.0,0.0,114,"[SnanEnan] 
+====Season 1====
+Ser Jorah Mormont is an exiled knight in the service of Daenerys Targaryen and the son of Jeor Mormont of the Night's Watch. To fund his wife's extravagant lifestyle, he sold poachers on his land to slave traders, which is illegal in the Seven Kingdoms. Rather than face "
+123,What is the relationship between Renly's wife and Renly's actual lover?,They're siblings,"Margaery Tyrell is the sister of Loras Tyrell, who is Renly Baratheon's lover.",0.0,0.0,0.0,104,"[SnanEnan] 
+===Season 2===
+Margaery, newly married to Renly, reveals that she is aware of his romantic relationship with her brother and is willing to work around his desires to secure their alliance and her position. Following Renly's assassination, Margaery indicates to Petyr Baelish that she is a"
+124,How many men did Theon Greyjoy use to capture Winterfell?,20,"The evidence does not specify the exact number of men Theon Greyjoy used to capture Winterfell. It mentions that Theon and his party invaded and captured the castle after sending some of his men to besiege Torrhen's Square, but it does not provide a specific count of his forces. Additionally, after Theon's capture of Winterfell, he later seeks reinforcements from the Dreadfort, indicating that he may not have had a large enough force initially to hold the castle. Therefore, the information regarding the number of men involved in the capture remains ambiguous.",0.0,0.0,0.0,114,"[SnanEnan] 
+====Season 2====
+After Theon Greyjoy captures Winterfell, Osha helps Bran and his younger brother Rickon go into hiding. To cement his claim on Winterfell, Theon has two orphan boys killed and their bodies burned, and passes their charred bodies corpses off as Bran and Rickon. After Theo"
+125,Which position on the king's small council is his closest adviser and has the power to make decisions in the king's absence?,Hand of the King,Hand of the King,1.0,1.0,1.0,130,"[S6.0E3.0] can get a bit confusing in your family. This is a small council meeting. You have no position on the small council. I'm the Lord Commander of the Kingsguard. The Lord Commander of the Kingsguard does have a position on the small council.
+[S6.0E3.0] I'm the Lord Commander of the Kingsguard"
+126,Who saved Sam from being killed by a wight in the Battle of Winterfell?,Edd,Jorah Mormont.,0.0,0.0,0.0,130,"[SnanEnan] 
+====Season 8====
+Sam is approached by Daenerys Targaryen, who thanks him for saving Jorah's life, but also reveals that she executed Randyll and Dickon for refusing to bend the knee to her; Samwell is grief-stricken. Bran tells Sam to reveal to Jon his true parentage. As the battle again"
+127,"Daenerys brings her dragons and her armies across the sea to Winterfell, in order to help Jon Snow defeat the Night King and his army. Who promised to support this war with significant troops, but was lying and never showed?",Cersei,Cersei Lannister.,0.0,0.6666666666666666,0.5797386715376658,130,"[SnanEnan] 
+===On Dragonstone===
+Ser Jorah returns and reunites with Daenerys, who has returned to Dragonstone. Varys and Tyrion privately discuss the brutality of Daenerys' actions. Jon and Davos attend Daenerys's meeting with her advisors. Jon receives Bran's warning and decides to return to Winte"
+128,"Gendry, a bastard son of Robert Baratheon, lived most of his life in the slums of Flea Bottom in King's Landing. Here he worked as an apprentice, becoming skilled in what trade?",Blacksmithing,Blacksmith.,0.0,0.0,0.0,130,"[SnanEnan] 
+=== Gendry ===
+Gendry is one of Robert Baratheon's many bastard children. He lives in King's Landing as an armorer's apprentice and is unaware of his true parentage. Gendry later joins the Brotherhood without Banners.
+In the HBO television adaptation, he is portrayed by Joe Dempsie.
+[Sna"
+129,"Davos Seaworth is arguably Jon Snow's most trusted advisor at the moment. But before his allegiance was with Jon, Davos previously gave advice to what man, a younger brother of a former king.",Stannis Baratheon,Stannis Baratheon.,1.0,1.0,1.0000000000000002,114,"[SnanEnan] 
+===Davos Seaworth===
+'''Davos Seaworth''' (seasons 2–8) portrayed by Liam Cunningham. Ser Davos Seaworth, also known as ""the Onion Knight"", is a former smuggler and knight in the service of Stannis Baratheon; he serves as one of Stannis's most trusted advisers. In his smuggling days, he "
+130,What is Rhaella's relationship to Daenerys Targaryen?,mother,Rhaella is Daenerys Targaryen's mother.,0.0,0.2857142857142857,0.33517574332792605,100,"[SnanEnan] 
+==Character description==
+Daenerys Targaryen is the daughter of King Aerys II Targaryen (also referred to as ""The Mad King"") and his sister-wife Queen Rhaella, and is one of the last survivors of House Targaryen. She serves as the third-person narrator of 31 chapters throughout ''A Game "
+131,What does Varys usually claim to be his aim?,Serve the realm,To serve the people.,0.0,0.5714285714285715,0.4112070550676187,110,"[SnanEnan] 
+====Season 4====
+Varys informs Tyrion that Cersei has discovered his relationship with Shae. Although Varys claims he will not lie for him, he implores Tyrion to send Shae away for her own safety. Varys later testifies against Tyrion at his trial for murdering Joffrey, but when Tyrion is"
+132,"Oberyn Martell died championing Tyrion Lannister in a ""trial by combat."" By what nickname was his killer known?",The Mountain,The Mountain,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+====Season 4====
+Ser Gregor is chosen as Cersei's champion for Tyrion's trial by combat, and fights Oberyn Martell, Tyrion's champion who wants to kill Gregor as revenge for the murder of his sister, Elia Martell. Oberyn inflicts several serious injuries on Clegane with his poisoned spea"
+133,"Which House has the motto ""As High as Honor""?",Arryn,House Arryn,0.0,0.6666666666666666,0.5797386715376658,130,"[SnanEnan] 
+== House Arryn  ==
+House Arryn is one of the Great Houses of the Seven Kingdoms and is the principal house in the Vale. It is descended from Kings of Mountain and Vale. Its main seat is at the Eyrie, a small castle located at the top of a mountain and reputed to be impregnable, where the"
+134,Who created the first White Walker?,The Children of the Forest,The Children of the Forest.,1.0,1.0,1.0000000000000004,130,"[SnanEnan] 
+===Season 6===
+The Night King appears in a vision being observed by Bran and the Three-eyed Raven, where they witness him as a human being forcibly transformed into the first White Walker by the Children of the Forest by impaling him with a dragonglass dagger. Bran subsequently confronts"
+135,Whose death does Arya Stark witness at the notoriously killer Red Wedding?,Grey Wind,Robb Stark and Catelyn Stark.,0.0,0.0,0.0,114,"[SnanEnan] 
+===In the Riverlands===
+Disguised as Walder Frey, Arya Stark kills all the men of House Frey with poisoned wine, avenging the Red Wedding (""The Rains of Castamere""). Arya proceeds south to assassinate Queen Cersei Lannister, and makes camp with friendly Lannister soldiers.
+Sandor Clegane"
+136,How many kings did Tywin Lannister serve as the Hand?,3,"Tywin Lannister served as Hand of the King twice. His first appointment was by Aerys II Targaryen, known as the Mad King, and he later became Hand again when Joffrey Baratheon ascended to the throne.",0.0,0.0,0.0,96,"[SnanEnan] '''Tywin Lannister''' is a fictional character in the epic fantasy series ''A Song of Ice and Fire'' by American novelist George R. R. Martin, and its television adaptation ''Game of Thrones''.
+Introduced in ''A Game of Thrones'' (1996) and subsequently appeared in ''A Clash of Kings'' (1"
+137,"""Do you hear? Do you hear?""",Locke,"The phrase ""Do you hear? Do you hear?"" appears in the context of a conversation where one character is trying to convey urgency or importance about what is being heard. In one instance, a character expresses that they do hear something, indicating a recognition of a voice or sound related to a past event. However, the evidence does not provide a clear context for the specific meaning or significance of what is being heard, leaving it somewhat ambiguous. Overall, the evidence suggests that hearing is a significant theme, but the exact implications of the phrase remain unclear.",0.0,0.0,0.0,71,"[S4.0E9.0] - Yes, you do. - No. Yes, you do. Heard it in your voice when you first brought her to me. I remember how it sounds. I was in love once. You were?
+[S3.0E9.0] He's one of them. No! Do you hear me? Ahh! You're not gonna die for one of them. Do it. They'll find us if you don't.
+[S6.0E5.0] <i"
+138,Where is Princess Myrcella being sent to? (This was Tyrion's idea.),Dorne,Dorne.,1.0,1.0,1.0,130,"[S2.0E3.0] Myrcella sent away to Dorne? But remember, the Queen mustn't know. Ooh. ""The Queen mustn't know."" I love conversations that begin this way. I plan to marry Princess Myrcella off
+[S2.0E3.0] Do you really think I'll let you sell her like a common whore? Myrcella's a princess. Some would say"
+139,Who was on the ship Sansa was looking at while she was crying?,Petyr Baelish,Petyr Baelish (Littlefinger).,0.0,0.8,0.7092972666062739,104,"[S4.0E6.0] he threatened to have me killed. Oh, why don't you tell them what Joffrey was doing? - Silence. - Pointing a loaded crossbow at Sansa Stark while you tore at her clothes and beat her. Silence! You will not speak unless called upon.
+[SnanEnan] 
+===In King's Landing===
+Sansa flees with Dont"
+140,"Who is Joffrey, Myrcella and Tommen's real father?",Jaime Lannister,Jaime Lannister.,1.0,1.0,1.0000000000000002,24,"[SnanEnan] 
+===Tommen Baratheon===
+'''Tommen Baratheon''' (seasons 1–2, 4–6) portrayed by Callum Whaary in seasons 1 and 2, and by Dean-Charles Chapman from season 4 onwards. Tommen Baratheon of House Baratheon is the prince presented as the youngest son of King Robert Baratheon and Queen Cersei Lan"
+141,For what reason was Hand of the King Eddard (Ned) Stark executed?,Challenging Joffrey's right to be king,Treason.,0.0,0.0,0.0,104,"[SnanEnan] 
+=== Eddard Stark ===
+Eddard ""Ned"" Stark is the Lord of Winterfell and Warden of the North, and briefly serves as Hand of the King to Robert Baratheon. He is executed, by Joffrey's order, on the steps of the Great Sept of Baelor.
+In the HBO television adaptation, he is portrayed by Sean B"
+142,"Which abandoned castle was the location where Sam and Gilly met up with Bran, Hodor, Jojen and Meera?",Nightfort,Nightfort,1.0,1.0,1.0,96,"[SnanEnan] 
+===In the North===
+Bran and his group arrive at the Nightfort and meet Sam and Gilly. Sam realizes that Bran is Jon's brother. Bran asks Sam to take them north of the Wall. He takes them through the passage and gives them his dragonglass weapons. Sam and Gilly arrive at Castle Black and "
+143,"Preparing for war against Queen Cersei, Daenerys learns an advisor has betrayed her by spreading the secret of Jon Snow's claim to the throne. Who does she condemn to die by dragon?","Varys, the Spider",Varys.,0.0,0.5,0.44943641652398214,114,"[SnanEnan] 
+====Season 7====
+Plotting their conquest of Westeros from Dragonstone, the ancestral Targaryen fortress, Daenerys and Tyrion learn that Jon Snow has been named King in the North. Tyrion suggests that Jon would make a valuable ally; Daenerys and Jon are impressed with each other, but she "
+144,"Lyanna Mormont, the young ruler of Bear Island is only a girl, and is only 13 years old at the time of season 8. She shares her last name with Jorah Mormont, as they are related. How are they related?",First cousins,Cousins.,0.0,0.6666666666666666,0.5797386715376658,130,"[S5.0E2.0] Do you know this wretched girl, Lyanna Mormont? The Lord Commander's niece. Lady of Bear Island and a child of 10. I asked her to commit her house to my cause. That's her response. ""Bear Island knows no king but the King in the North,
+[S6.0E7.0] My money's on the old boy. Lady Mormont. We"
+145,"Tyrion Lannister, the younger brother of Jamie and Cersei, has had a hard life. What is Tyrion's defining trait that caused him to be hated by his father, Tywin Lannister?",All of these,His dwarfism.,0.0,0.0,0.0,130,"[SnanEnan] 
+===Tyrion Lannister===
+'''Tyrion Lannister''' portrayed by Peter Dinklage. Nicknamed ""the Imp"" or ""Halfman"", Tyrion Lannister of House Lannister is the younger brother of Cersei and Jaime Lannister. He is a dwarf; and his mother died during his birth, for which his father, Tywin Lanniste"
+146,Who is Jon's mother?,Lyanna Stark,Lyanna Stark.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+===Jon Snow===
+'''Jon Snow''' portrayed by Kit Harington. Kit Harington Jon Snow of House Stark and the Night's Watch is the secret son of Rhaegar Targaryen and Lyanna Stark, though raised as the bastard son of Lyanna's brother, Ned Stark. In the first season, Jon joins the Night's Watch"
+147,"Who wrote ""Bear Island knows no king but the King in the North, whose name is Stark"" in a letter adressed to Stannis Baratheon?",Lyanna Mormont,Lyanna Mormont,1.0,1.0,1.0000000000000002,130,"[S6.0E7.0] before he marched on Winterfell and was killed. He showed me the letter you wrote to him when he petitioned for men. - It said... - I remember what it said. Bear Island knows no king but the King in the North whose name is Stark. Robb is gone,
+[S5.0E2.0] Lady of Bear Island and a child of"
+148,The fiery sacrifice of Shireen Baratheon may have been the cruelest death on a show famous for such things. Who amongst the following was NOT complicit in the princess' haunting end?,Davos Seaworth,Davos Seaworth.,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+===Critical reception===
+""The Dance of Dragons"" received highly positive reviews, with many critics praising the episode's conclusion in Daznak's Pit. The showrunners's decision to have Stannis sacrifice Shireen, however, polarized critics, with some praising it as strong character devel"
+149,The most well-known motto of all Houses: what is the motto of House Stark?,Winter is Coming,Winter is Coming,1.0,1.0,1.0000000000000002,130,"[SnanEnan] 
+== House Stark  ==
+House Stark is one of the Great Houses of the Seven Kingdoms and the principal house of the North. Its seat is at Winterfell, one of the oldest castles in the Seven Kingdoms. Its coat of arms displays a grey direwolf running on a white field, and its words are ''Winter"
+150,What is the capital of Westeros?,King's Landing,King's Landing,1.0,1.0,1.0000000000000002,130,"[S7.0E2.0] We will lay siege to the capital, surrounding the city on all sides. Cersei will have the Iron Throne, but no food for her army or the people. But we won't use Dothraki and Unsullied. Cersei will try to rally the lords of Westeros
+[SnanEnan] 
+====Season 2====
+Tywin and the Westermen regro"
+151,"""You killed her children. Say her name!""  Prince Oberyn Martell is shouting at the Mountain to say what name?",Elia,Elia Martell.,0.0,0.6666666666666666,0.5797386715376658,130,"[S4.0E8.0] Say it. Say her name. Elia Martell. You raped her. You killed her children. Elia Martell. Who gave you the order? Who gave you the order?
+[S4.0E1.0] My nephew the King wants to murder me. My wife hates me because my father murdered her family. Oberyn Martell wants to murder everyone whose"
+152,What is the last name for bastards in Dorne?,Sand,Sand,1.0,1.0,1.0,130,"[S7.0E7.0] He was born in a tower in Dorne. His last name isn't really Snow, it's Sand. It's not. Dornish bastards are named Sand. At the Citadel, I transcribed a High Septon's diary.
+[SnanEnan] 
+== House Martell  ==
+House Martell is one of the Great Houses of the Seven Kingdoms and is the ruling ho"
+153,How many Starks appeared in the first episode of season 1 (pilot episode)?,8,"In the pilot episode of Season 1 of *Game of Thrones*, titled ""Winter Is Coming,"" several members of House Stark appear. The main Stark characters introduced include Eddard ""Ned"" Stark, Catelyn Stark, Robb Stark, Sansa Stark, Arya Stark, Bran Stark, and Jon Snow. Therefore, a total of seven Starks are featured in the first episode.",0.0,0.0,0.0,110,"[SnanEnan] ""'''Winter Is Coming'''"" is the series premiere episode of the HBO medieval fantasy television series ''Game of Thrones''. The first episode of the first season, it was written by the show creators David Benioff and D. B. Weiss, in a faithful adaptation of the first chapters of George R. "
+154,Who was behind the slaughter that took place during the infamous Red Wedding?,Tywin Lannister,"Walder Frey, Roose Bolton, and Tywin Lannister.",0.0,0.4444444444444445,0.41036264495218466,114,"[S7.0E1.0] I'll admit it. But I'm proud of you lot. You're my family, the men who helped me slaughter the Starks at the Red Wedding. - ( cheering ) - Walder: Yes, yes. Cheer. Brave men, all of you.
+[S6.0E10.0] He brings the storm. Your son was butchered at the Red Wedding, Lord Manderly, but you ref"
+155,Who was Shagga's father?,Dolf,Shagga's father was a mountain clansman.,0.0,0.0,0.0,32,"[S7.0E2.0] the only son of Jeor Mormont. My name is Samwell Tarly, Sworn Brother of the Night's Watch, training to serve as maester at Castle Black. I knew your father. I was with him when he died.
+[S5.0E8.0] I know what my father was. <i>What he did.</i> I know the Mad King earned his name. So, her"
+156,What king dies in season 1?,Robert,King Robert Baratheon.,0.0,0.5,0.44943641652398214,104,"[SnanEnan] 
+====Season 1====
+In season 1, King Robert Baratheon asks his old friend Eddard ""Ned"" Stark, Lord of Winterfell and Warden of the North, to assume the position of Hand of the King after the sudden death of their mentor, Jon Arryn. Not interested in politics or the intrigues of the court, "
+157,"Daenerys Targaryen has three children. These ""children"" are actually what?",dragons,Dragons.,1.0,1.0,1.0,130,"[S2.0E8.0] Daenerys Targaryen lives. A girl at the edge of the world is the least of our problems. She has three dragons. But even if what they say is true, it'll be years before they are fully grown. And then there will be nowhere to hide.
+[SnanEnan] 
+=== Daenerys Targaryen ===
+Daenerys Targaryen, "
+158,What is Eddard Stark's kinship to Jon Snow?,uncle,Jon Snow is Eddard Stark's illegitimate son.,0.0,0.0,0.0,130,"[SnanEnan] 
+== Character description ==
+Rickon is the fifth and youngest child of Eddard ""Ned"" Stark and his wife Catelyn, and has five siblings—Robb, Sansa, Arya, Bran, and his illegitimate half-brother Jon Snow. Like his brothers and sisters, Rickon is constantly accompanied by his direwolf, Shagg"
+159,"""Do it quickly.""",Maester Luwin,"The phrase ""Do it quickly"" is not directly quoted in the provided evidence, but there are multiple instances where characters urge others to act swiftly. For example, one character says, ""Go on. Be quick about it. Do it,"" indicating a desire for prompt action. Another line states, ""Don't take too long,"" which also implies the need for urgency. Overall, the evidence supports the notion that there is a call for quick action, though the exact phrase ""Do it quickly"" is not explicitly mentioned.",0.0,0.0,0.0,89,"[S2.0E6.0] Go on. Be quick about it. Do it. Bastard, do it! You can't do it. We both know it. The sun's going down, Jon Snow.
+[S2.0E6.0] Jon Snow, or I'll come back and haunt you. That's cold. Go on. Be quick about it. Do it.
+[S3.0E6.0] I enjoy it. Please, cut it off! Cut it off! Cut it off! I win. "
+160,Which kings did Jaime Lannister serve as a Kingsguard?,"Aerys II, Robert Baratheon and Joffrey Baratheon",Aerys II Targaryen and Robert Baratheon.,0.0,0.7692307692307692,0.7192918182472702,130,"[SnanEnan] 
+===Description===
+In ''A Game of Thrones'' (1996), Jaime is introduced as one of the Kingsguard, the royal security detail, and the son of the wealthy and powerful Tywin Lannister, the former Hand of the King. Jaime's twin is Cersei, the Queen of Westeros by virtue of her marriage to Kin"
+161,"""Give me something for the pain, and let me die.""",Robert Baratheon,"The phrase ""Give me something for the pain, and let me die"" is attributed to King Robert Baratheon, who was suffering after being mortally wounded. He requested milk of the poppy to alleviate his pain, indicating his desire to end his suffering. This request is repeated in the context of his death, emphasizing his state of distress and impending demise.",0.0,0.06451612903225806,0.09465241768786434,104,"[S1.0E7.0] murdered by a pig. Give me something for the pain and let me die. Give him milk of the poppy. He was reeling from the wine. He commanded us to... step aside, but...
+[S1.0E7.0] I'll do everything I can to honour your memory. My memory. King Robert Baratheon, murdered by a pig. Give me some"
+162,What is Visenya Targaryen's relationship to Aegon I?,Wife and sister,Sister.,0.0,0.5,0.44943641652398214,130,"[SnanEnan] 
+==Plot==
+When King Viserys I Targaryen dies, his widow Queen Alicent has their eldest son Prince Aegon crowned King Aegon II before Viserys' daughter Rhaenyra, the only surviving child of his first marriage, can claim the Iron Throne herself. Though Rhaenyra is the king's oldest child an"
+163,Arthur Dayne was a member of the Kingsguard of which king?,Aerys II,King Aegon IV Targaryen.,0.0,0.0,0.0,24,"[S4.0E1.0] All the great deeds of all the great Kingsguard. Ser Arthur Dayne. The Sword of the Morning. Led the attack on the Kingswood Brotherhood. Defeated the Smiling Knight in single combat. Ser Duncan the Tall. Four pages.
+[S4.0E1.0] My apologies, Your Grace. I was rather busy. Busy getting cap"
+164,"""I shall have your head for this!""",Lord Commander Mormont,"The phrase ""I shall have your head for this!"" is expressed in the context of a threat or demand for punishment. It appears in two instances: once when someone is demanding to know where food is hidden, implying a consequence for non-compliance, and again in a context where a character is asserting authority and expressing a desire for retribution against a perceived wrong. Additionally, there are references to similar sentiments regarding the demand for heads in the context of familial loyalty and justice, particularly from a father towards a son. Overall, the phrase signifies a strong intention to enact punishment or revenge.",0.0,0.0,0.0,79,"[S3.0E4.0] The Gods will curse us for this. By all the laws... There are no laws beyond the Wall. Show us where he hides the food, or you'll get the same as him. Unhand her. I shall have your head for this.
+[S3.0E4.0] Show us where he hides the food, or you'll get the same as him. Unhand her. I shal"
+165,"""Gods help you Theon Greyjoy. Now you are truly lost.""",Rodrik Cassel,"The phrase ""Gods help you Theon Greyjoy. Now you are truly lost"" is spoken in a moment of desperation, indicating that Theon is in a dire situation. The speaker expresses a sense of hopelessness regarding Theon's fate, suggesting that he has lost his way or identity. The evidence shows that Theon is struggling with his identity, as he later refers to himself as ""Reek,"" indicating a significant transformation or loss of self. Overall, the statement reflects a critical turning point for Theon Greyjoy, emphasizing his vulnerability and the gravity of his circumstances.",0.0,0.0,0.0,96,"[S2.0E6.0] You said no harm would come. Theon, please. Any last words, old man? Gods help you, Theon Greyjoy. Now you are truly lost. Theon, please don't. Do something! I'll do anything, please!
+[S2.0E6.0] - Please, stop this. Please stop him. - Hush now, child. I'm off to see your father. You said "

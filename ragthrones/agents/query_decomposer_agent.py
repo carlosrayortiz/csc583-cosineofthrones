@@ -15,7 +15,8 @@ from dataclasses import dataclass
 from typing import List, Dict, Any
 
 from langchain.chat_models import init_chat_model
-from langchain.messages import SystemMessage, HumanMessage
+
+from langchain_core.messages import SystemMessage, HumanMessage
 
 import spacy
 

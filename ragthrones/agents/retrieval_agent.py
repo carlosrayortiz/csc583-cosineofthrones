@@ -7,7 +7,7 @@ import json
 
 from langchain.tools import tool
 from langchain.chat_models import init_chat_model
-from langchain.messages import AnyMessage, SystemMessage, ToolMessage
+from langchain_core.messages import AnyMessage, SystemMessage, ToolMessage
 from typing_extensions import TypedDict, Annotated
 import operator
 

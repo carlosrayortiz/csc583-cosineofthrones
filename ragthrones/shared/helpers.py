@@ -17,6 +17,8 @@ from typing import Optional
 
 import pandas as pd
 from openai import OpenAI
+from ragthrones.prompts.answer_prompt import ANSWER_PROMPT
+from ragthrones.prompts.answer_prompt import TRIVIA_ANSWER_PROMPT
 
 
 # -------------------------------------------------------
@@ -106,27 +108,50 @@ def node_reranker(state, reranker_model=None):
 
 def node_synthesizer(
     state,
-    answer_prompt_template,
+    answer_prompt_template=None,
     k_evidence: int = 5,
     show_prompt: bool = False
 ):
     """
-    FIXED + ENHANCED:
-    - Always uses reranked evidence
-    - Auto-includes any evidence mentioning canonical entities
-      (e.g., Drogon, Rhaegal, Viserion)
+    Synthesizer with Trivia Mode:
+    - Detects trivia-style questions (short factoid answers)
+    - Forces use of TRIVIA_ANSWER_PROMPT when needed
+    - Preserves canonical entity merging logic
     """
 
     client = _get_llm_client()
 
+    # -------------------------------------------------
+    # Choose prompt template (auto-detect trivia)
+    # -------------------------------------------------
+    q = state.question.lower()
+
+    TRIVIA_TRIGGERS = [
+        "who", "what", "where", "when",
+        "which", "name", "called", "known as",
+        "sigil", "bastard", "killed", "father", "mother"
+    ]
+
+    is_trivia_question = any(t in q for t in TRIVIA_TRIGGERS)
+
+    # Manual override if you want:
+    if getattr(state, "trivia_mode", False):
+        is_trivia_question = True
+
+    # Select prompt
+    if is_trivia_question:
+        prompt_template = TRIVIA_ANSWER_PROMPT
+    else:
+        prompt_template = answer_prompt_template or ANSWER_PROMPT
+
+    # -------------------------------------------------
+    # Evidence selection (same as before)
+    # -------------------------------------------------
     hits = state.reranked if state.reranked is not None else state.retrieved
     if hits is None or len(hits) == 0:
         state.answer = "(no evidence)"
         return state
 
-    # -------------------------------------------------
-    # Extract canonical entities (dragon names, etc.)
-    # -------------------------------------------------
     canonical_entities = (
         state.logs
         .get("decomposer", {})
@@ -134,27 +159,19 @@ def node_synthesizer(
     )
     canonical_entities = [c for c in canonical_entities if isinstance(c, str)]
 
-    # -------------------------------------------------
-    # 1. Top-K reranked evidence
-    # -------------------------------------------------
     top_rows = hits.head(k_evidence)
 
-    # -------------------------------------------------
-    # 2. FORCE-INCLUDE any rows that mention canonical entities
-    # -------------------------------------------------
     if canonical_entities:
         mask = hits["text"].apply(
             lambda t: any(name.lower() in str(t).lower() for name in canonical_entities)
         )
         entity_rows = hits[mask]
-
-        # Avoid duplicates
         merged = pd.concat([top_rows, entity_rows]).drop_duplicates()
     else:
         merged = top_rows
 
     # -------------------------------------------------
-    # 3. Build evidence text for the synthesizer
+    # Build evidence text
     # -------------------------------------------------
     ev_text = "\n".join(
         f"[S{r.get('season')}E{r.get('episode')}] {r.get('text')}"
@@ -163,7 +180,10 @@ def node_synthesizer(
 
     state.evidence_text = ev_text
 
-    full_prompt = answer_prompt_template.format(
+    # -------------------------------------------------
+    # Build the full prompt
+    # -------------------------------------------------
+    full_prompt = prompt_template.format(
         question=state.question,
         evidence=ev_text
     )
@@ -174,26 +194,26 @@ def node_synthesizer(
         print("=======================\n")
 
     # -------------------------------------------------
-    # 4. LLM call
+    # Call LLM
     # -------------------------------------------------
     response = client.chat.completions.create(
         model=GEN_MODEL,
-        temperature=0.1,
+        temperature=0.1 if not is_trivia_question else 0.0,
         messages=[{"role": "user", "content": full_prompt}]
     )
 
     state.answer = response.choices[0].message.content.strip()
 
     # -------------------------------------------------
-    # 5. Logs
+    # Logs
     # -------------------------------------------------
     state.logs["synthesizer"] = {
+        "prompt_used": "TRIVIA_ANSWER_PROMPT" if is_trivia_question else "ANSWER_PROMPT",
         "prompt_length_chars": len(full_prompt),
         "evidence_count": len(merged)
     }
 
     return state
-
 
 # -------------------------------------------------------
 # 4. Heuristic entity extraction

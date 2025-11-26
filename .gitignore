@@ -10,6 +10,8 @@ myenv/
 venv/
 .env
 .env.*
+# Secrets
+*.env
 
 # Data & Artifacts (ignore everything in data except docs)
 ragthrones/data/**

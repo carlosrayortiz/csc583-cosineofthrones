@@ -81,3 +81,43 @@ Regenerate it anytime:
 ```bash
 python -m ragthrones.scripts.generate_graph
 
+# 🐺 COSINE-of-Thrones  
+### A Full Game-of-Thrones Retrieval-Augmented Generation (RAG) + Agentic Pipeline
+
+COSINE-of-Thrones is a custom-built RAG system that ingests **Game of Thrones subtitles, lore datasets, and external trivia**, builds a **hybrid vectorstore (FAISS + BM25)**, and runs a lightweight **LangGraph-style agent** written entirely in **plain Python**.
+
+This project powers:
+- Semantic + lexical hybrid retrieval  
+- Narrative evaluation  
+- Grounded Q&A with evidence citations  
+- A modular agent pipeline (parser → retriever → reranker → synthesizer)  
+- A Gradio-based interactive UI  
+
+This README explains how to install, prepare data, build embeddings, and run the system locally.
+
+---
+
+# 📁 Project Structure
+
+---
+
+# 🚀 1. Installation & Environment Setup
+
+## Step 1 — Create and activate the virtual environment  
+(**IMPORTANT:** The env lives inside `ragthrones/`, not the project root.)
+
+```bash
+cd ragthrones
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+
+Create Env file
+OPENAI_API_KEY=your_key_here
+
+KAGGLE_USERNAME=your_username
+KAGGLE_KEY=your_key
+
+#Build Vector stores & KB with /notebooks and then run the below
+
+python -m ragthrones.app.gradio_ui
